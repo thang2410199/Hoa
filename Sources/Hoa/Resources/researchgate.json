@@ -1,0 +1,3680 @@
+[
+  {
+    "authors" : [
+      "Julius Beneoluchi Odili",
+      "Mohd Nizam Mohmad Kahar"
+    ],
+    "DOI" : "10.1155\/2016\/1510256",
+    "citationsCount" : 28,
+    "publishLocation" : "Computational Intelligence and Neuroscience",
+    "title" : "Solving the Traveling Salesman's Problem Using the African Buffalo Optimization",
+    "isJournal" : true,
+    "subMetaphor" : "NA",
+    "year" : 2016,
+    "metaphor" : "African Buffalo",
+    "citationsDOI" : "10.1155\/2016\/1510256"
+  },
+  {
+    "authors" : [
+      "Sait Ali Uymaz",
+      "Gulay Tezel",
+      "Esra Yel"
+    ],
+    "DOI" : "10.1016\/j.asoc.2015.03.003",
+    "citationsCount" : 99,
+    "publishLocation" : "Applied Soft Computing",
+    "title" : "Artificial algae algorithm (AAA) for nonlinear global optimization",
+    "isJournal" : true,
+    "subMetaphor" : "NA",
+    "year" : 2015,
+    "metaphor" : "Algae",
+    "citationsDOI" : "10.1016\/j.asoc.2015.03.003"
+  },
+  {
+    "authors" : [
+      "Hongping Wang",
+      "Xi Lu",
+      "Xiaoge Zhang",
+      "Qing Wang",
+      "Yong Deng"
+    ],
+    "DOI" : "10.1155\/2014\/271280",
+    "citationsCount" : 9,
+    "publishLocation" : "The Scientific World Journal",
+    "title" : "A Bio-Inspired Method for the Constrained Shortest Path Problem",
+    "isJournal" : true,
+    "subMetaphor" : "NA",
+    "year" : 2014,
+    "metaphor" : "Amoeba",
+    "citationsDOI" : "10.1155\/2014\/271280"
+  },
+  {
+    "authors" : [
+      "Liping Zhu",
+      "Song-Ju Kim",
+      "Masahiko Hara",
+      "Masashi Aono"
+    ],
+    "DOI" : "10.1098\/rsos.180396",
+    "citationsCount" : 10,
+    "publishLocation" : "Royal Society Open Science",
+    "title" : "Remarkable problem-solving ability of unicellular amoeboid organism and its mechanism",
+    "isJournal" : true,
+    "subMetaphor" : "Plasmodium",
+    "year" : 2018,
+    "metaphor" : "Amoeba",
+    "citationsDOI" : "10.1098\/rsos.180396"
+  },
+  {
+    "authors" : [
+      "Hossein Shayeghi"
+    ],
+    "DOI" : "10.5923\/j.eee.20120204.05",
+    "citationsCount" : 37,
+    "publishLocation" : "Electrical and Electronic Engineering",
+    "title" : "Anarchic Society Optimization Based PID Control of an Automatic Voltage Regulator (AVR) System",
+    "isJournal" : true,
+    "subMetaphor" : "NA",
+    "year" : 2012,
+    "metaphor" : "Anarchic Society",
+    "citationsDOI" : "10.5923\/j.eee.20120204.05"
+  },
+  {
+    "authors" : [
+      "Boris Almonacid",
+      "Ricardo Soto"
+    ],
+    "DOI" : "10.1007\/s11047-018-9675-0",
+    "citationsCount" : 6,
+    "publishLocation" : "Natural Computing",
+    "title" : "Andean Condor Algorithm for cell formation problems",
+    "isJournal" : true,
+    "subMetaphor" : "NA",
+    "year" : 2018,
+    "metaphor" : "Andean Condors",
+    "citationsDOI" : "10.1007\/s11047-018-9675-0"
+  },
+  {
+    "authors" : [
+      "Mei F. Pook",
+      "Effirul I. Ramlan"
+    ],
+    "DOI" : "10.1007\/s12065-018-0169-x",
+    "citationsCount" : 3,
+    "publishLocation" : "Evolutionary Intelligence",
+    "title" : "The Anglerfish algorithm: a derivation of randomized incremental construction technique for solving the traveling salesman problem",
+    "isJournal" : true,
+    "subMetaphor" : "NA",
+    "year" : 2018,
+    "metaphor" : "Anglerfish",
+    "citationsDOI" : "10.1007\/s12065-018-0169-x"
+  },
+  {
+    "authors" : [
+      "B. Naderi",
+      "Majid Khalili",
+      "Alireza Arshadi Khamseh"
+    ],
+    "DOI" : "10.1080\/00207543.2013.871389",
+    "citationsCount" : 8,
+    "publishLocation" : "International Journal of Production Research",
+    "title" : "Mathematical models and a hunting search algorithm for the no-wait flowshop scheduling with parallel machines",
+    "isJournal" : true,
+    "subMetaphor" : "Hunting",
+    "year" : 2014,
+    "metaphor" : "Animal Behavior",
+    "citationsDOI" : "10.1080\/00207543.2013.871389"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "10.1142\/s021962201450031x",
+    "citationsCount" : 41,
+    "publishLocation" : "International Journal of Information Technology & Decision Making",
+    "title" : "Prey-Predator Algorithm: A New Metaheuristic Algorithm for Optimization Problems",
+    "isJournal" : true,
+    "subMetaphor" : "Predation",
+    "year" : 2015,
+    "metaphor" : "Animal Behavior",
+    "citationsDOI" : "10.1142\/s021962201450031x"
+  },
+  {
+    "authors" : [
+      "S. He",
+      "Q.H. Wu",
+      "J.R. Saunders"
+    ],
+    "DOI" : "10.1109\/tevc.2009.2011992",
+    "citationsCount" : 446,
+    "publishLocation" : "IEEE Transactions on Evolutionary Computation",
+    "title" : "Group Search Optimizer: An Optimization Algorithm Inspired by Animal Searching Behavior",
+    "isJournal" : true,
+    "subMetaphor" : "Searching",
+    "year" : 2009,
+    "metaphor" : "Animal Behavior",
+    "citationsDOI" : "10.1109\/tevc.2009.2011992"
+  },
+  {
+    "authors" : [
+      "Alberto Colorni",
+      "Marco Dorigo",
+      "Vittorio Maniezzo"
+    ],
+    "DOI" : "NA",
+    "publishLocation" : "Toward a Practice of Autonomous Systems: Proceedings of the First European Conference on Artificial Life",
+    "title" : "Distributed optimization by ant colonies",
+    "isJournal" : false,
+    "subMetaphor" : "NA",
+    "year" : 1992,
+    "metaphor" : "Ant Colony",
+    "citationsDOI" : "NA"
+  },
+  {
+    "authors" : [
+      "Seyedali Mirjalili"
+    ],
+    "DOI" : "10.1016\/j.advengsoft.2015.01.010",
+    "citationsCount" : 1110,
+    "publishLocation" : "Advances in Engineering Software",
+    "title" : "The Ant Lion Optimizer",
+    "isJournal" : true,
+    "subMetaphor" : "NA",
+    "year" : 2015,
+    "metaphor" : "Ant Lion",
+    "citationsDOI" : "10.1016\/j.advengsoft.2015.01.010"
+  },
+  {
+    "authors" : [
+      "Leandro Nunes de Castro",
+      "Fernando J. Von Zuben"
+    ],
+    "DOI" : "NA",
+    "publishLocation" : "Proceedings of GECCO",
+    "title" : "The clonal selection algorithm with engineering applications",
+    "isJournal" : false,
+    "subMetaphor" : "NA",
+    "year" : 2000,
+    "metaphor" : "Antibodies",
+    "citationsDOI" : "NA"
+  },
+  {
+    "authors" : [
+      "Paweł Pijarski",
+      "Piotr Kacejko"
+    ],
+    "DOI" : "10.1080\/0305215x.2019.1565282",
+    "citationsCount" : 11,
+    "publishLocation" : "Engineering Optimization",
+    "title" : "A new metaheuristic optimization method: the algorithm of the innovative gunner (AIG)",
+    "isJournal" : true,
+    "subMetaphor" : "NA",
+    "year" : 2019,
+    "metaphor" : "Artillery",
+    "citationsDOI" : "10.1080\/0305215x.2019.1565282"
+  },
+  {
+    "authors" : [
+      "T.C. Hu",
+      "Andrew B. Kahng",
+      "Chung-Wen Albert Tsao"
+    ],
+    "DOI" : "10.1287\/ijoc.7.4.417",
+    "citationsCount" : 46,
+    "publishLocation" : "INFORMS Journal on Computing",
+    "title" : "Old Bachelor Acceptance: A New Class of Non-Monotone Threshold Accepting Methods",
+    "isJournal" : true,
+    "subMetaphor" : "NA",
+    "year" : 1995,
+    "metaphor" : "Bachelors",
+    "citationsDOI" : "10.1287\/ijoc.7.4.417"
+  },
+  {
+    "authors" : [
+      "Sibylle D. Muller",
+      "Jarno Marchetto",
+      "Stefano Airaghi",
+      "Petros Koumoutsakos"
+    ],
+    "DOI" : "10.1109\/4235.985689",
+    "citationsCount" : 209,
+    "publishLocation" : "IEEE Transactions on Evolutionary Computation",
+    "title" : "Optimization based on bacterial chemotaxis",
+    "isJournal" : true,
+    "subMetaphor" : "Bacterial Chemotaxis",
+    "year" : 2002,
+    "metaphor" : "Bacteria",
+    "citationsDOI" : "10.1109\/4235.985689"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "10.1109\/mcs.2002.1004010",
+    "citationsCount" : 1805,
+    "publishLocation" : "IEEE Control Systems Magazine",
+    "title" : "Biomimicry of bacterial foraging for distributed optimization and control",
+    "isJournal" : true,
+    "subMetaphor" : "Bacterial Foraging",
+    "year" : 2002,
+    "metaphor" : "Bacteria",
+    "citationsDOI" : "10.1109\/mcs.2002.1004010"
+  },
+  {
+    "authors" : [
+      "Ying Chu",
+      "Hua Mi",
+      "Zhen Ji",
+      "Huilian Liao",
+      "Q.H. Wu"
+    ],
+    "DOI" : "10.1109\/cec.2008.4631222",
+    "citationsCount" : 2,
+    "publishLocation" : "2008 IEEE Congress on Evolutionary Computation (IEEE World Congress on Computational Intelligence)",
+    "title" : "A Fast Bacterial Swarming Algorithm for high-dimensional function optimization",
+    "isJournal" : false,
+    "subMetaphor" : "Bacterial Swarming",
+    "year" : 2008,
+    "metaphor" : "Bacteria",
+    "citationsDOI" : "10.1109\/cec.2008.4631222"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "10.1109\/sis.2013.6615185",
+    "citationsCount" : 15,
+    "publishLocation" : "2013 IEEE Symposium on Swarm Intelligence (SIS)",
+    "title" : "Magnetotactic bacteria optimization algorithm for multimodal optimization",
+    "isJournal" : false,
+    "subMetaphor" : "Magnetotactic Bacteria",
+    "year" : 2013,
+    "metaphor" : "Bacteria",
+    "citationsDOI" : "10.1109\/sis.2013.6615185"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "10.1007\/978-981-13-3708-6_18",
+    "citationsCount" : 0,
+    "publishLocation" : "Proceedings of the 10th National Technical Seminar on Underwater System Technology 2018",
+    "title" : "Barnacles Mating Optimizer Algorithm for Optimization",
+    "isJournal" : false,
+    "subMetaphor" : "NA",
+    "year" : 2019,
+    "metaphor" : "Barnacles Mating",
+    "citationsDOI" : "10.1007\/978-981-13-3708-6_18"
+  },
+  {
+    "authors" : [
+      "Xin-She Yang"
+    ],
+    "DOI" : "NA",
+    "publishLocation" : "Nature inspired cooperative strategies for optimization (NICSO 2010)",
+    "title" : "A new metaheuristic bat-inspired algorithm",
+    "isJournal" : false,
+    "subMetaphor" : "NA",
+    "year" : 2010,
+    "metaphor" : "Bats",
+    "citationsDOI" : "NA"
+  },
+  {
+    "authors" : [
+      "Taymaz Rahkar Farshi"
+    ],
+    "DOI" : "10.1007\/s00521-020-05004-4",
+    "citationsCount" : 6,
+    "publishLocation" : "Neural Computing and Applications",
+    "title" : "Battle royale optimization algorithm",
+    "isJournal" : true,
+    "subMetaphor" : "NA",
+    "year" : 2020,
+    "metaphor" : "Battle Royale Game",
+    "citationsDOI" : "10.1007\/s00521-020-05004-4"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "10.1016\/j.advengsoft.2018.04.007",
+    "citationsCount" : 31,
+    "publishLocation" : "Advances in Engineering Software",
+    "title" : "Pity beetle algorithm - A new metaheuristic inspired by the behavior of bark beetles",
+    "isJournal" : true,
+    "subMetaphor" : "NA",
+    "year" : 2018,
+    "metaphor" : "Beetles",
+    "citationsDOI" : "10.1016\/j.advengsoft.2018.04.007"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "10.1109\/neurel.2006.341200",
+    "citationsCount" : 74,
+    "publishLocation" : "2006 8th Seminar on Neural Network Applications in Electrical Engineering",
+    "title" : "Bee Colony Optimization: Principles and Applications",
+    "isJournal" : false,
+    "subMetaphor" : "Bee Colonies",
+    "year" : 2006,
+    "metaphor" : "Bees",
+    "citationsDOI" : "10.1109\/neurel.2006.341200"
+  },
+  {
+    "authors" : [
+      "Dervis Karaboga",
+      "Bahriye Basturk"
+    ],
+    "DOI" : "10.1007\/978-3-540-72950-1_77",
+    "citationsCount" : 441,
+    "publishLocation" : "Lecture Notes in Computer Science",
+    "title" : "Artificial Bee Colony (ABC) Optimization Algorithm for Solving Constrained Optimization Problems",
+    "isJournal" : false,
+    "subMetaphor" : "Bee Colonies 2",
+    "year" : 2007,
+    "metaphor" : "Bees",
+    "citationsDOI" : "10.1007\/978-3-540-72950-1_77"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "10.1145\/1543834.1543949",
+    "citationsCount" : 14,
+    "publishLocation" : "Proceedings of the first ACM\/SIGEVO Summit on Genetic and Evolutionary Computation - GEC \\textquotesingle09",
+    "title" : "Bumblebees",
+    "isJournal" : false,
+    "subMetaphor" : "Bumblebees",
+    "year" : 2009,
+    "metaphor" : "Bees",
+    "citationsDOI" : "10.1145\/1543834.1543949"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "10.1109\/cec.2001.934391",
+    "citationsCount" : 97,
+    "publishLocation" : "Proceedings of the 2001 Congress on Evolutionary Computation (IEEE Cat. No.01TH8546)",
+    "title" : "MBO: marriage in honey bees optimization-a Haplometrosis polygynous swarming approach",
+    "isJournal" : false,
+    "subMetaphor" : "Honey Bee Marriages",
+    "year" : 2001,
+    "metaphor" : "Bees",
+    "citationsDOI" : "10.1109\/cec.2001.934391"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "10.1049\/el:20030383",
+    "citationsCount" : 76,
+    "publishLocation" : "Electronics Letters",
+    "title" : "Queen-bee evolution for genetic algorithms",
+    "isJournal" : true,
+    "subMetaphor" : "Queen Bees",
+    "year" : 2003,
+    "metaphor" : "Bees",
+    "citationsDOI" : "10.1049\/el:20030383"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "10.1016\/j.advengsoft.2005.04.005",
+    "citationsCount" : 719,
+    "publishLocation" : "Advances in Engineering Software",
+    "title" : "A new optimization method: Big Bang-Big Crunch",
+    "isJournal" : true,
+    "subMetaphor" : "NA",
+    "year" : 2006,
+    "metaphor" : "Big Bang",
+    "citationsDOI" : "10.1016\/j.advengsoft.2005.04.005"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "10.1109\/tevc.2008.919004",
+    "citationsCount" : 2058,
+    "publishLocation" : "IEEE Transactions on Evolutionary Computation",
+    "title" : "Biogeography-Based Optimization",
+    "isJournal" : true,
+    "subMetaphor" : "NA",
+    "year" : 2008,
+    "metaphor" : "Biogeography",
+    "citationsDOI" : "10.1109\/tevc.2008.919004"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "10.1016\/j.cnsns.2013.08.027",
+    "citationsCount" : 81,
+    "publishLocation" : "Communications in Nonlinear Science and Numerical Simulation",
+    "title" : "Bird mating optimizer: An optimization algorithm inspired by bird mating strategies",
+    "isJournal" : true,
+    "subMetaphor" : "Birds Mating",
+    "year" : 2014,
+    "metaphor" : "Birds",
+    "citationsDOI" : "10.1016\/j.cnsns.2013.08.027"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "10.1016\/j.ins.2012.06.032",
+    "citationsCount" : 127,
+    "publishLocation" : "Information Sciences",
+    "title" : "Migrating Birds Optimization: A new metaheuristic approach and its performance on quadratic assignment problem",
+    "isJournal" : true,
+    "subMetaphor" : "Bird Migrations",
+    "year" : 2012,
+    "metaphor" : "Birds",
+    "citationsDOI" : "10.1016\/j.ins.2012.06.032"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "10.1016\/j.ins.2016.08.046",
+    "citationsCount" : 39,
+    "publishLocation" : "Information Sciences",
+    "title" : "A shuffled multi-swarm micro-migrating birds optimizer for a multi-resource-constrained flexible job shop scheduling problem",
+    "isJournal" : true,
+    "subMetaphor" : "Micro Migration",
+    "year" : 2016,
+    "metaphor" : "Birds",
+    "citationsDOI" : "10.1016\/j.ins.2016.08.046"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "10.1007\/s00500-019-04102-3",
+    "citationsCount" : 3,
+    "publishLocation" : "Soft Computing",
+    "title" : "A novel metaheuristic inspired by Hitchcock birds' behavior for efficient optimization of large search spaces of high dimensionality",
+    "isJournal" : true,
+    "subMetaphor" : "Hitchcock Birds",
+    "year" : 2019,
+    "metaphor" : "Birds",
+    "citationsDOI" : "10.1007\/s00500-019-04102-3"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "10.1007\/978-3-319-97888-8_13",
+    "citationsCount" : 11,
+    "publishLocation" : "Recent Advances in Soft Computing",
+    "title" : "Proposal of a New Swarm Optimization Method Inspired in Bison Behavior",
+    "isJournal" : false,
+    "subMetaphor" : "NA",
+    "year" : 2018,
+    "metaphor" : "Bison",
+    "citationsDOI" : "10.1007\/978-3-319-97888-8_13"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "10.1016\/j.ins.2012.08.023",
+    "citationsCount" : 504,
+    "publishLocation" : "Information Sciences",
+    "title" : "Black hole: A new heuristic optimization approach for data clustering",
+    "isJournal" : true,
+    "subMetaphor" : "NA",
+    "year" : 2013,
+    "metaphor" : "Black Holes",
+    "citationsDOI" : "10.1016\/j.ins.2012.08.023"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "10.1016\/j.engappai.2019.103249",
+    "citationsCount" : 77,
+    "publishLocation" : "Engineering Applications of Artificial Intelligence",
+    "title" : "Black Widow Optimization Algorithm: A novel meta-heuristic approach for solving engineering optimization problems",
+    "isJournal" : true,
+    "subMetaphor" : "NA",
+    "year" : 2020,
+    "metaphor" : "Black Widow",
+    "citationsDOI" : "10.1016\/j.engappai.2019.103249"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "10.1016\/j.swevo.2013.01.001",
+    "citationsCount" : 15,
+    "publishLocation" : "Swarm and Evolutionary Computation",
+    "title" : "A robust clustering method based on blind,  naked mole-rats (BNMR) algorithm",
+    "isJournal" : true,
+    "subMetaphor" : "NA",
+    "year" : 2013,
+    "metaphor" : "Blind Naked Mole Rats",
+    "citationsDOI" : "10.1016\/j.swevo.2013.01.001"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "10.1007\/s10115-020-01503-x",
+    "citationsCount" : 2,
+    "publishLocation" : "Knowledge and Information Systems",
+    "title" : "Multi-objective Bonobo Optimizer (MOBO): an intelligent heuristic for multi-criteria optimization",
+    "isJournal" : true,
+    "subMetaphor" : "NA",
+    "year" : 2020,
+    "metaphor" : "Bonobos",
+    "citationsDOI" : "10.1007\/s10115-020-01503-x"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "10.4018\/ijsir.2011100103",
+    "citationsCount" : 147,
+    "publishLocation" : "International Journal of Swarm Intelligence Research",
+    "title" : "An Optimization Algorithm Based on Brainstorming Process",
+    "isJournal" : true,
+    "subMetaphor" : "NA",
+    "year" : 2011,
+    "metaphor" : "Brainstorming",
+    "citationsDOI" : "10.4018\/ijsir.2011100103"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "10.1109\/smc.2018.00055",
+    "citationsCount" : 1,
+    "publishLocation" : "2018 IEEE International Conference on Systems, Man, and Cybernetics (SMC)",
+    "title" : "A New Optimization Algorithm Based on the Behavior of BrunsVigia Flower",
+    "isJournal" : false,
+    "subMetaphor" : "NA",
+    "year" : 2018,
+    "metaphor" : "BrunsVigia Flower",
+    "citationsDOI" : "10.1109\/smc.2018.00055"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "10.1007\/s42044-018-0025-2",
+    "citationsCount" : 8,
+    "publishLocation" : "Iran Journal of Computer Science",
+    "title" : "Meta-heuristic bus transportation algorithm",
+    "isJournal" : true,
+    "subMetaphor" : "NA",
+    "year" : 2018,
+    "metaphor" : "Buses",
+    "citationsDOI" : "10.1007\/s42044-018-0025-2"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "10.1007\/s00521-015-1923-y",
+    "citationsCount" : 251,
+    "publishLocation" : "Neural Computing and Applications",
+    "title" : "Monarch butterfly optimization",
+    "isJournal" : true,
+    "subMetaphor" : "Monarch Butterflies",
+    "year" : 2015,
+    "metaphor" : "Butterflies",
+    "citationsDOI" : "10.1007\/s00521-015-1923-y"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "10.1007\/s00500-018-3102-4",
+    "citationsCount" : 232,
+    "publishLocation" : "Soft Computing",
+    "title" : "Butterfly optimization algorithm: a novel approach for global optimization",
+    "isJournal" : true,
+    "subMetaphor" : "Regular Butterflies",
+    "year" : 2018,
+    "metaphor" : "Butterflies",
+    "citationsDOI" : "10.1007\/s00500-018-3102-4"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "NA",
+    "publishLocation" : "Majlesi Journal of Electrical Engineering",
+    "title" : "Buzzard Optimization Algorithm: A Nature-Inspired Metaheuristic Algorithm",
+    "isJournal" : true,
+    "subMetaphor" : "NA",
+    "year" : 2019,
+    "metaphor" : "Buzzards",
+    "citationsDOI" : "NA"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "10.1016\/j.asoc.2015.07.045",
+    "citationsCount" : 22,
+    "publishLocation" : "Applied Soft Computing",
+    "title" : "ITGO: Invasive tumor growth optimization algorithm",
+    "isJournal" : true,
+    "subMetaphor" : "NA",
+    "year" : 2015,
+    "metaphor" : "Cancers",
+    "citationsDOI" : "10.1016\/j.asoc.2015.07.045"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "10.1007\/978-3-540-36668-3_94",
+    "citationsCount" : 177,
+    "publishLocation" : "Lecture Notes in Computer Science",
+    "title" : "Cat Swarm Optimization",
+    "isJournal" : false,
+    "subMetaphor" : "NA",
+    "year" : 2006,
+    "metaphor" : "Cats",
+    "citationsDOI" : "10.1007\/978-3-540-36668-3_94"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "NA",
+    "publishLocation" : "Iraq J. Electrical and Electronic Engineering",
+    "title" : "Novel Optimization Algorithm Inspired by Camel Traveling Behavior",
+    "isJournal" : true,
+    "subMetaphor" : "NA",
+    "year" : 2016,
+    "metaphor" : "Camels",
+    "citationsDOI" : "NA"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "10.2528\/pier07082403",
+    "citationsCount" : 229,
+    "publishLocation" : "Progress In Electromagnetics Research",
+    "title" : "CENTRAL FORCE OPTIMIZATION: A NEW METAHEURISTIC WITH APPLICATIONS IN APPLIED ELECTROMAGNETICS",
+    "isJournal" : true,
+    "subMetaphor" : "NA",
+    "year" : 2007,
+    "metaphor" : "Central Force",
+    "citationsDOI" : "10.2528\/pier07082403"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "10.1016\/j.eswa.2021.114685",
+    "citationsCount" : 0,
+    "publishLocation" : "Expert Systems with Applications",
+    "title" : "Chameleon Swarm Algorithm: A bio-inspired optimizer for solving engineering design problems",
+    "isJournal" : true,
+    "subMetaphor" : "NA",
+    "year" : 2021,
+    "metaphor" : "Chameleons",
+    "citationsDOI" : "10.1016\/j.eswa.2021.114685"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "10.1007\/s00707-009-0270-4",
+    "citationsCount" : 661,
+    "publishLocation" : "Acta Mechanica",
+    "title" : "A novel heuristic optimization method: charged system search",
+    "isJournal" : true,
+    "subMetaphor" : "NA",
+    "year" : 2010,
+    "metaphor" : "Charged Systems",
+    "citationsDOI" : "10.1007\/s00707-009-0270-4"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "NA",
+    "publishLocation" : "Proceedings of the European Symposium on Artificial Neural Networks, Computational Intelligence and Machine Learning",
+    "title" : "Cheetah Based Optimization Algorithm: A Novel Swarm Intelligence Paradigm",
+    "isJournal" : false,
+    "subMetaphor" : "NA",
+    "year" : 2018,
+    "metaphor" : "Cheetah",
+    "citationsDOI" : "NA"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "10.1016\/j.eswa.2011.04.126",
+    "citationsCount" : 159,
+    "publishLocation" : "Expert Systems with Applications",
+    "title" : "ACROA: Artificial Chemical Reaction Optimization Algorithm for global optimization",
+    "isJournal" : true,
+    "subMetaphor" : "NA",
+    "year" : 2011,
+    "metaphor" : "Chemical Reactions",
+    "citationsDOI" : "10.1016\/j.eswa.2011.04.126"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "10.1007\/978-3-319-11857-4_10",
+    "citationsCount" : 164,
+    "publishLocation" : "Lecture Notes in Computer Science",
+    "title" : "A New Bio-inspired Algorithm: Chicken Swarm Optimization",
+    "isJournal" : false,
+    "subMetaphor" : "Chicken Swarms",
+    "year" : 2014,
+    "metaphor" : "Chickens",
+    "citationsDOI" : "10.1007\/978-3-319-11857-4_10"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "10.4172\/2168-9679.1000344",
+    "citationsCount" : 11,
+    "publishLocation" : "Journal of Applied & Computational Mathematics",
+    "title" : "Laying Chicken Algorithm: A New Meta-Heuristic Approach to Solve Continuous Programming Problems",
+    "isJournal" : true,
+    "subMetaphor" : "Chicken Laying Eggs",
+    "year" : 2017,
+    "metaphor" : "Chickens",
+    "citationsDOI" : "10.4172\/2168-9679.1000344"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "10.1142\/s1469026813500028",
+    "citationsCount" : 17,
+    "publishLocation" : "International Journal of Computational Intelligence and Applications",
+    "title" : "A NOVEL OPTIMIZATION ALGORITHM BASED ON ATMOSPHERE CLOUDS MODEL",
+    "isJournal" : true,
+    "subMetaphor" : "NA",
+    "year" : 2013,
+    "metaphor" : "Clouds",
+    "citationsDOI" : "10.1142\/s1469026813500028"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "10.1155\/2014\/375358",
+    "citationsCount" : 10,
+    "publishLocation" : "The Scientific World Journal",
+    "title" : "An Improved Cockroach Swarm Optimization",
+    "isJournal" : true,
+    "subMetaphor" : "NA",
+    "year" : 2014,
+    "metaphor" : "Cockroaches",
+    "citationsDOI" : "10.1155\/2014\/375358"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "10.1016\/j.compstruc.2014.04.005",
+    "citationsCount" : 314,
+    "publishLocation" : "Computers & Structures",
+    "title" : "Colliding bodies optimization: A novel meta-heuristic method",
+    "isJournal" : true,
+    "subMetaphor" : "NA",
+    "year" : 2014,
+    "metaphor" : "Colliding Bodies",
+    "citationsDOI" : "10.1016\/j.compstruc.2014.04.005"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "10.3233\/AIC-2012-0526",
+    "citationsCount" : 11,
+    "publishLocation" : "AI Communications",
+    "title" : "Community of scientist optimization: An autonomy oriented approach to distributed optimization",
+    "isJournal" : true,
+    "subMetaphor" : "NA",
+    "year" : 2012,
+    "metaphor" : "Community of scientists",
+    "citationsDOI" : "10.3233\/AIC-2012-0526"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "10.1145\/1830483.1830526",
+    "citationsCount" : 14,
+    "publishLocation" : "Proceedings of the 12th annual conference on Genetic and evolutionary computation - GECCO ",
+    "title" : "Consultant-guided search",
+    "isJournal" : false,
+    "subMetaphor" : "NA",
+    "year" : 2010,
+    "metaphor" : "Consultants",
+    "citationsDOI" : "10.1145\/1830483.1830526"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "10.1155\/2014\/739768",
+    "citationsCount" : 70,
+    "publishLocation" : "The Scientific World Journal",
+    "title" : "The Coral Reefs Optimization Algorithm: A Novel Metaheuristic for Efficiently Solving Optimization Problems",
+    "isJournal" : true,
+    "subMetaphor" : "NA",
+    "year" : 2014,
+    "metaphor" : "Coral Reefs",
+    "citationsDOI" : "10.1155\/2014\/739768"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "10.1109\/jbhi.2020.3012487",
+    "citationsCount" : 4,
+    "publishLocation" : "IEEE Journal of Biomedical and Health Informatics",
+    "title" : "COVID-19 Optimizer Algorithm,  Modeling and Controlling of Coronavirus Distribution Process",
+    "isJournal" : true,
+    "subMetaphor" : "NA",
+    "year" : 2020,
+    "metaphor" : "COVID19",
+    "citationsDOI" : "10.1109\/jbhi.2020.3012487"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "NA",
+    "publishLocation" : "2018 IEEE Congress on Evolutionary Computation (CEC)",
+    "title" : "Coyote Optimization Algorithm: A New Metaheuristic for Global Optimization Problems",
+    "isJournal" : false,
+    "subMetaphor" : "NA",
+    "year" : 2018,
+    "metaphor" : "Coyotes",
+    "citationsDOI" : "NA"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "10.1111\/coin.12053",
+    "citationsCount" : 5,
+    "publishLocation" : "Computational Intelligence",
+    "title" : "Crystal Energy Optimization Algorithm",
+    "isJournal" : true,
+    "subMetaphor" : "NA",
+    "year" : 2014,
+    "metaphor" : "Crystal Energy",
+    "citationsDOI" : "10.1111\/coin.12053"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "10.1016\/j.compstruc.2016.03.001",
+    "citationsCount" : 721,
+    "publishLocation" : "Computers & Structures",
+    "title" : "A novel metaheuristic method for solving constrained engineering optimization problems: Crow search algorithm",
+    "isJournal" : true,
+    "subMetaphor" : "NA",
+    "year" : 2016,
+    "metaphor" : "Crows",
+    "citationsDOI" : "10.1016\/j.compstruc.2016.03.001"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "10.1016\/j.asoc.2018.03.019",
+    "citationsCount" : 49,
+    "publishLocation" : "Applied Soft Computing",
+    "title" : "Chaotic crow search algorithm for fractional optimization problems",
+    "isJournal" : true,
+    "subMetaphor" : "Chaotic",
+    "year" : 2018,
+    "metaphor" : "Crows",
+    "citationsDOI" : "10.1016\/j.asoc.2018.03.019"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "10.1109\/nabic.2009.5393690",
+    "citationsCount" : 2140,
+    "publishLocation" : "2009 World Congress on Nature & Biologically Inspired Computing (NaBIC)",
+    "title" : "Cuckoo Search via Lévy flights",
+    "isJournal" : false,
+    "subMetaphor" : "NA",
+    "year" : 2009,
+    "metaphor" : "Cuckoos",
+    "citationsDOI" : "10.1109\/nabic.2009.5393690"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "NA",
+    "publishLocation" : "International Conference on Industrial Engineering, IEEE.,(2016 e)",
+    "title" : "Red Deer Algorithm (RDA); A New Optimization Algorithm Inspired by Red Deers’ Mating",
+    "isJournal" : false,
+    "subMetaphor" : "Scottish Red Deer",
+    "year" : 2016,
+    "metaphor" : "Deer",
+    "citationsDOI" : "NA"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "NA",
+    "publishLocation" : "International Conference on Artificial Immune Systems",
+    "title" : "Introducing dendritic cells as a novel immune-inspired algorithm for anomaly detection",
+    "isJournal" : false,
+    "subMetaphor" : "NA",
+    "year" : 2005,
+    "metaphor" : "Dendritic Cells",
+    "citationsDOI" : "NA"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "10.35378\/gujs.484643",
+    "citationsCount" : 9,
+    "publishLocation" : "GAZI UNIVERSITY JOURNAL OF SCIENCE",
+    "title" : "DGO: Dice Game Optimizer",
+    "isJournal" : true,
+    "subMetaphor" : "NA",
+    "year" : 2019,
+    "metaphor" : "Dice Games",
+    "citationsDOI" : "10.35378\/gujs.484643"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "NA",
+    "publishLocation" : "International Journal of Soft Computing",
+    "title" : "A New Engineering Optimization Method: African Wild Dog Algorithm",
+    "isJournal" : true,
+    "subMetaphor" : "NA",
+    "year" : 2013,
+    "metaphor" : "Dogs",
+    "citationsDOI" : "NA"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "10.1109\/access.2020.2999540",
+    "citationsCount" : 11,
+    "publishLocation" : "IEEE Access",
+    "title" : "Border Collie Optimization",
+    "isJournal" : true,
+    "subMetaphor" : "Border Collie",
+    "year" : 2020,
+    "metaphor" : "Dogs",
+    "citationsDOI" : "10.1109\/access.2020.2999540"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "10.1109\/gcis.2009.464",
+    "citationsCount" : 46,
+    "publishLocation" : "2009 WRI Global Congress on Intelligent Systems",
+    "title" : "A Dolphin Partner Optimization",
+    "isJournal" : false,
+    "subMetaphor" : "Dolphin Partners",
+    "year" : 2009,
+    "metaphor" : "Dolphins",
+    "citationsDOI" : "10.1109\/gcis.2009.464"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "10.1016\/j.advengsoft.2013.03.004",
+    "citationsCount" : 237,
+    "publishLocation" : "Advances in Engineering Software",
+    "title" : "A new optimization method: Dolphin echolocation",
+    "isJournal" : true,
+    "subMetaphor" : "Dolphin Echolocation",
+    "year" : 2013,
+    "metaphor" : "Dolphins",
+    "citationsDOI" : "10.1016\/j.advengsoft.2013.03.004"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "10.1109\/iraniancee.2019.8786601",
+    "citationsCount" : 1,
+    "publishLocation" : "2019 27th Iranian Conference on Electrical Engineering (ICEE)",
+    "title" : "DTO: Donkey Theorem Optimization",
+    "isJournal" : false,
+    "subMetaphor" : "NA",
+    "year" : 2019,
+    "metaphor" : "Donkeys",
+    "citationsDOI" : "10.1109\/iraniancee.2019.8786601"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "10.1007\/s00521-015-1920-1",
+    "citationsCount" : 868,
+    "publishLocation" : "Neural Computing and Applications",
+    "title" : "Dragonfly algorithm: a new meta-heuristic optimization technique for solving single-objective,  discrete,  and multi-objective problems",
+    "isJournal" : true,
+    "subMetaphor" : "NA",
+    "year" : 2015,
+    "metaphor" : "Dragonflies",
+    "citationsDOI" : "10.1007\/s00521-015-1920-1"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "NA",
+    "publishLocation" : "Advances in Swarm Intelligence",
+    "title" : "Duelist Algorithm: An Algorithm Inspired by How Duelist Improve Their Capabilities in a Duel",
+    "isJournal" : false,
+    "subMetaphor" : "NA",
+    "year" : 2016,
+    "metaphor" : "Duelists",
+    "citationsDOI" : "NA"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "10.1007\/978-3-642-12538-6_9",
+    "citationsCount" : 85,
+    "publishLocation" : "Nature Inspired Cooperative Strategies for Optimization (NICSO 2010)",
+    "title" : "Eagle Strategy Using Lévy Walk and Firefly Algorithms for Stochastic Optimization",
+    "isJournal" : false,
+    "subMetaphor" : "NA",
+    "year" : 2010,
+    "metaphor" : "Eagles",
+    "citationsDOI" : "10.1007\/978-3-642-12538-6_9"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "NA",
+    "publishLocation" : "International Journal of Bio-Inspired Computation",
+    "title" : "Earthworm optimization algorithm: a bio-inspired metaheuristic algorithm for global optimization problems",
+    "isJournal" : true,
+    "subMetaphor" : "NA",
+    "year" : 2015,
+    "metaphor" : "Earthworms",
+    "citationsDOI" : "NA"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "10.1109\/nabic.2011.6089631",
+    "citationsCount" : 11,
+    "publishLocation" : "2011 Third World Congress on Nature and Biologically Inspired Computing",
+    "title" : "An eco-inspired evolutionary algorithm applied to numerical optimization",
+    "isJournal" : false,
+    "subMetaphor" : "NA",
+    "year" : 2011,
+    "metaphor" : "Ecology",
+    "citationsDOI" : "10.1109\/nabic.2011.6089631"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "10.1016\/j.ins.2010.12.024",
+    "citationsCount" : 73,
+    "publishLocation" : "Information Sciences",
+    "title" : "Circle detection using electro-magnetism optimization",
+    "isJournal" : true,
+    "subMetaphor" : "NA",
+    "year" : 2012,
+    "metaphor" : "Electromagnetism",
+    "citationsDOI" : "10.1016\/j.ins.2010.12.024"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "10.1007\/s00500-019-04410-8",
+    "citationsCount" : 0,
+    "publishLocation" : "Soft Computing",
+    "title" : "Electron radar search algorithm: a novel developed meta-heuristic algorithm",
+    "isJournal" : true,
+    "subMetaphor" : "Discharge",
+    "year" : 2019,
+    "metaphor" : "Electrons",
+    "citationsDOI" : "10.1007\/s00500-019-04410-8"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "10.1061\/(asce)cp.1943-5487.0000080",
+    "citationsCount" : 10,
+    "publishLocation" : "Journal of Computing in Civil Engineering",
+    "title" : "Electimize: New Evolutionary Algorithm for Optimization with Application in Construction Engineering",
+    "isJournal" : true,
+    "subMetaphor" : "Flow",
+    "year" : 2011,
+    "metaphor" : "Electrons",
+    "citationsDOI" : "10.1061\/(asce)cp.1943-5487.0000080"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "10.1007\/s00500-019-04410-8",
+    "citationsCount" : 0,
+    "publishLocation" : "Soft Computing",
+    "title" : "Electron radar search algorithm: a novel developed meta-heuristic algorithm",
+    "isJournal" : true,
+    "subMetaphor" : "Radar",
+    "year" : 2019,
+    "metaphor" : "Electrons",
+    "citationsDOI" : "10.1007\/s00500-019-04410-8"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "10.1109\/icdim.2015.7381893",
+    "citationsCount" : 34,
+    "publishLocation" : "2015 Tenth International Conference on Digital Information Management (ICDIM)",
+    "title" : "Elephant Search Algorithm for optimization problems",
+    "isJournal" : false,
+    "subMetaphor" : "Regular Elephants",
+    "year" : 2015,
+    "metaphor" : "Elephants",
+    "citationsDOI" : "10.1109\/icdim.2015.7381893"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "10.1109\/iscbi.2015.8",
+    "citationsCount" : 160,
+    "publishLocation" : "2015 3rd International Symposium on Computational and Business Intelligence (ISCBI)",
+    "title" : "Elephant Herding Optimization",
+    "isJournal" : false,
+    "subMetaphor" : "Elephant Herds",
+    "year" : 2015,
+    "metaphor" : "Elephants",
+    "citationsDOI" : "10.1109\/iscbi.2015.8"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "10.1007\/978-3-642-17563-3_68",
+    "citationsCount" : 21,
+    "publishLocation" : "Swarm, Evolutionary, and Memetic Computing",
+    "title" : "Social Emotional Optimization Algorithm for Nonlinear Constrained Optimization Problems",
+    "isJournal" : false,
+    "subMetaphor" : "NA",
+    "year" : 2010,
+    "metaphor" : "Emotions",
+    "citationsDOI" : "10.1007\/978-3-642-17563-3_68"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "10.1016\/j.swevo.2015.09.007",
+    "citationsCount" : 5,
+    "publishLocation" : "Swarm and Evolutionary Computation",
+    "title" : "Artificial infectious disease optimization: A SEIQR epidemic dynamic model-based function optimization~algorithm",
+    "isJournal" : true,
+    "subMetaphor" : "NA",
+    "year" : 2016,
+    "metaphor" : "Epidemics",
+    "citationsDOI" : "10.1016\/j.swevo.2015.09.007"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "10.1145\/2576768.2598264",
+    "citationsCount" : 31,
+    "publishLocation" : "Proceedings of the 2014 conference on Genetic and evolutionary computation - GECCO \\textquotesingle14",
+    "title" : "Kaizen programming",
+    "isJournal" : false,
+    "subMetaphor" : "NA",
+    "year" : 2014,
+    "metaphor" : "Experts",
+    "citationsDOI" : "10.1145\/2576768.2598264"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "10.1016\/j.cor.2014.04.013",
+    "citationsCount" : 69,
+    "publishLocation" : "Computers & Operations Research",
+    "title" : "Ecogeography-based optimization: Enhancing biogeography-based optimization with ecogeographic barriers and differentiations",
+    "isJournal" : true,
+    "subMetaphor" : "NA",
+    "year" : 2014,
+    "metaphor" : "Ecogeography",
+    "citationsDOI" : "10.1016\/j.cor.2014.04.013"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "10.1016\/j.applthermaleng.2019.04.038",
+    "citationsCount" : 53,
+    "publishLocation" : "Applied Thermal Engineering",
+    "title" : "Design of heat exchangers using Falcon Optimization Algorithm",
+    "isJournal" : true,
+    "subMetaphor" : "NA",
+    "year" : 2019,
+    "metaphor" : "Falcons",
+    "citationsDOI" : "10.1016\/j.applthermaleng.2019.04.038"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "10.1016\/j.asoc.2018.07.033",
+    "citationsCount" : 82,
+    "publishLocation" : "Applied Soft Computing",
+    "title" : "Farmland fertility: A new metaheuristic algorithm for solving continuous optimization problems",
+    "isJournal" : true,
+    "subMetaphor" : "NA",
+    "year" : 2018,
+    "metaphor" : "Farmland Fertility",
+    "citationsDOI" : "10.1016\/j.asoc.2018.07.033"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "10.1007\/s40313-016-0242-6",
+    "citationsCount" : 93,
+    "publishLocation" : "Journal of Control, Automation and Electrical Systems",
+    "title" : "A New Meta-Heuristic Optimization Algorithm Inspired by FIFA World Cup Competitions: Theory and Its Application in PID Designing for AVR System",
+    "isJournal" : true,
+    "subMetaphor" : "NA",
+    "year" : 2016,
+    "metaphor" : "FIFA World Cup",
+    "citationsDOI" : "10.1007\/s40313-016-0242-6"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "10.1007\/978-3-642-04944-6_14",
+    "citationsCount" : 1393,
+    "publishLocation" : "Stochastic Algorithms: Foundations and Applications",
+    "title" : "Firefly Algorithms for Multimodal Optimization",
+    "isJournal" : false,
+    "subMetaphor" : "NA",
+    "year" : 2009,
+    "metaphor" : "Fireflies",
+    "citationsDOI" : "10.1007\/978-3-642-04944-6_14"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "10.1007\/978-3-642-13495-1_44",
+    "citationsCount" : 388,
+    "publishLocation" : "Lecture Notes in Computer Science",
+    "title" : "Fireworks Algorithm for Optimization",
+    "isJournal" : false,
+    "subMetaphor" : "NA",
+    "year" : 2010,
+    "metaphor" : "Fireworks",
+    "citationsDOI" : "10.1007\/978-3-642-13495-1_44"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "10.1016\/j.eswa.2011.04.057",
+    "citationsCount" : 145,
+    "publishLocation" : "Expert Systems with Applications",
+    "title" : "Improved binary particle swarm optimization using catfish effect for feature selection",
+    "isJournal" : true,
+    "subMetaphor" : "Catfish",
+    "year" : 2011,
+    "metaphor" : "Fish",
+    "citationsDOI" : "10.1016\/j.eswa.2011.04.057"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "NA",
+    "publishLocation" : "International Journal of Scientific and Engineering Research",
+    "title" : "Cuttlefish Algorithm - A Novel Bio-Inspired Optimization Algorithm",
+    "isJournal" : true,
+    "subMetaphor" : "Cuttlefish",
+    "year" : 2013,
+    "metaphor" : "Fish",
+    "citationsDOI" : "NA"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "10.1109\/icsmc.2008.4811695",
+    "citationsCount" : 67,
+    "publishLocation" : "2008 IEEE International Conference on Systems, Man and Cybernetics",
+    "title" : "A novel search algorithm based on fish school behavior",
+    "isJournal" : false,
+    "subMetaphor" : "Fish Schools",
+    "year" : 2008,
+    "metaphor" : "Fish",
+    "citationsDOI" : "10.1109\/icsmc.2008.4811695"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "NA",
+    "publishLocation" : "Journal of Circuits, Systems and Computers",
+    "title" : "Studies on Artificial Fish Swarm Optimization Algorithm Based on Decomposition and Coordination Techniques",
+    "isJournal" : true,
+    "subMetaphor" : "Fish Swarms",
+    "year" : 2003,
+    "metaphor" : "Fish",
+    "citationsDOI" : "NA"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "10.1016\/j.asoc.2017.09.035",
+    "citationsCount" : 33,
+    "publishLocation" : "Applied Soft Computing",
+    "title" : "Tackling global optimization problems with a novel algorithm - Mouth Brooding Fish algorithm",
+    "isJournal" : true,
+    "subMetaphor" : "Mouth Brooding",
+    "year" : 2018,
+    "metaphor" : "Fish",
+    "citationsDOI" : "10.1016\/j.asoc.2017.09.035"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "10.1007\/978-3-642-32894-7_27",
+    "citationsCount" : 729,
+    "publishLocation" : "Unconventional Computation and Natural Computation",
+    "title" : "Flower Pollination Algorithm for Global Optimization",
+    "isJournal" : false,
+    "subMetaphor" : "NA",
+    "year" : 2012,
+    "metaphor" : "Flower Pollination",
+    "citationsDOI" : "10.1007\/978-3-642-32894-7_27"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "10.1016\/j.eswa.2014.05.009",
+    "citationsCount" : 84,
+    "publishLocation" : "Expert Systems with Applications",
+    "title" : "Forest Optimization Algorithm",
+    "isJournal" : true,
+    "subMetaphor" : "Tree Survival",
+    "year" : 2014,
+    "metaphor" : "Forests",
+    "citationsDOI" : "10.1016\/j.eswa.2014.05.009"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "10.1007\/s40996-016-0042-z",
+    "citationsCount" : 3,
+    "publishLocation" : "Iranian Journal of Science and Technology, Transactions of Civil Engineering",
+    "title" : "Natural Forest Regeneration Algorithm: A New Meta-Heuristic",
+    "isJournal" : true,
+    "subMetaphor" : "Forest Regeneration",
+    "year" : 2016,
+    "metaphor" : "Forests",
+    "citationsDOI" : "10.1007\/s40996-016-0042-z"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "10.1016\/j.eswa.2020.114107",
+    "citationsCount" : 13,
+    "publishLocation" : "Expert Systems with Applications",
+    "title" : "Red fox optimization algorithm",
+    "isJournal" : true,
+    "subMetaphor" : "Red Fox",
+    "year" : 2021,
+    "metaphor" : "Fox",
+    "citationsDOI" : "10.1016\/j.eswa.2020.114107"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "10.1016\/j.knosys.2014.07.025",
+    "citationsCount" : 227,
+    "publishLocation" : "Knowledge-Based Systems",
+    "title" : "Stochastic Fractal Search: A powerful metaheuristic algorithm",
+    "isJournal" : true,
+    "subMetaphor" : "NA",
+    "year" : 2015,
+    "metaphor" : "Fractals",
+    "citationsDOI" : "10.1016\/j.knosys.2014.07.025"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "10.1061\/(asce)0733-9496(2003)129:3(210)",
+    "citationsCount" : 812,
+    "publishLocation" : "Journal of Water Resources Planning and Management",
+    "title" : "Optimization of Water Distribution Network Design Using the Shuffled Frog Leaping Algorithm",
+    "isJournal" : true,
+    "subMetaphor" : "Leaping",
+    "year" : 2003,
+    "metaphor" : "Frogs",
+    "citationsDOI" : "10.1061\/(asce)0733-9496(2003)129:3(210)"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "10.1007\/s11721-012-0067-2",
+    "citationsCount" : 32,
+    "publishLocation" : "Swarm Intelligence",
+    "title" : "Distributed graph coloring: an approach based on the calling behavior of Japanese tree frogs",
+    "isJournal" : true,
+    "subMetaphor" : "Japanese Tree Frogs",
+    "year" : 2012,
+    "metaphor" : "Frogs",
+    "citationsDOI" : "10.1007\/s11721-012-0067-2"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "10.1016\/j.knosys.2011.07.001",
+    "citationsCount" : 749,
+    "publishLocation" : "Knowledge-Based Systems",
+    "title" : "A new Fruit Fly Optimization Algorithm: Taking the financial distress model as an example",
+    "isJournal" : true,
+    "subMetaphor" : "NA",
+    "year" : 2012,
+    "metaphor" : "Fruit Fly",
+    "citationsDOI" : "10.1016\/j.knosys.2011.07.001"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "10.1504\/ijcse.2011.041221",
+    "citationsCount" : 50,
+    "publishLocation" : "International Journal of Computational Science and Engineering",
+    "title" : "Principal components analysis by the galaxy-based search algorithm: a novel metaheuristic for continuous optimisation",
+    "isJournal" : true,
+    "subMetaphor" : "NA",
+    "year" : 2011,
+    "metaphor" : "Galaxies",
+    "citationsDOI" : "10.1504\/ijcse.2011.041221"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "10.1016\/j.asoc.2015.10.034",
+    "citationsCount" : 70,
+    "publishLocation" : "Applied Soft Computing",
+    "title" : "Galactic Swarm Optimization: A new global optimization metaheuristic inspired by galactic motion",
+    "isJournal" : true,
+    "subMetaphor" : "Motion",
+    "year" : 2016,
+    "metaphor" : "Galaxies",
+    "citationsDOI" : "10.1016\/j.asoc.2015.10.034"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "10.1016\/j.asoc.2012.03.068",
+    "citationsCount" : 60,
+    "publishLocation" : "Applied Soft Computing",
+    "title" : "Gases Brownian Motion Optimization: an Algorithm for Optimization (GBMO)",
+    "isJournal" : true,
+    "subMetaphor" : "Brownian Motion",
+    "year" : 2013,
+    "metaphor" : "Gas Molecules",
+    "citationsDOI" : "10.1016\/j.asoc.2012.03.068"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "10.1016\/j.ins.2014.02.026",
+    "citationsCount" : 27,
+    "publishLocation" : "Information Sciences",
+    "title" : "KGMO: A swarm optimization algorithm based on the kinetic energy of gas molecules",
+    "isJournal" : true,
+    "subMetaphor" : "Kinetic Energy",
+    "year" : 2014,
+    "metaphor" : "Gas Molecules",
+    "citationsDOI" : "10.1016\/j.ins.2014.02.026"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "NA",
+    "publishLocation" : "NA",
+    "title" : "Adaptation in Natural and Artificial Systems, An Introductory Analysis with Applications to Biology, Control, and Artificial Intelligence",
+    "isJournal" : false,
+    "subMetaphor" : "NA",
+    "year" : 1975,
+    "metaphor" : "Genes",
+    "citationsDOI" : "NA"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "10.1007\/978-1-4471-0123-9_54",
+    "citationsCount" : 211,
+    "publishLocation" : "Soft Computing and Industry",
+    "title" : "Gene Expression Programming in Problem Solving",
+    "isJournal" : false,
+    "subMetaphor" : "NA",
+    "year" : 2002,
+    "metaphor" : "Gene Expression",
+    "citationsDOI" : "10.1007\/978-1-4471-0123-9_54"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "10.1142\/s1469026815500170",
+    "citationsCount" : 10,
+    "publishLocation" : "International Journal of Computational Intelligence and Applications",
+    "title" : "General Relativity Search Algorithm: A Global Optimization Approach",
+    "isJournal" : true,
+    "subMetaphor" : "NA",
+    "year" : 2015,
+    "metaphor" : "General Relativity",
+    "citationsDOI" : "10.1142\/s1469026815500170"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "10.1007\/s11721-008-0021-5",
+    "citationsCount" : 235,
+    "publishLocation" : "Swarm Intelligence",
+    "title" : "Glowworm swarm optimization for simultaneous capture of multiple local optima of multimodal functions",
+    "isJournal" : true,
+    "subMetaphor" : "NA",
+    "year" : 2008,
+    "metaphor" : "Glow Worms",
+    "citationsDOI" : "10.1007\/s11721-008-0021-5"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "10.1016\/j.advengsoft.2017.01.004",
+    "citationsCount" : 799,
+    "publishLocation" : "Advances in Engineering Software",
+    "title" : "Grasshopper Optimisation Algorithm: Theory and application",
+    "isJournal" : true,
+    "subMetaphor" : "NA",
+    "year" : 2017,
+    "metaphor" : "Grasshoppers",
+    "citationsDOI" : "10.1016\/j.advengsoft.2017.01.004"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "10.1016\/j.ins.2009.03.004",
+    "citationsCount" : 3221,
+    "publishLocation" : "Information Sciences",
+    "title" : "GSA: A Gravitational Search Algorithm",
+    "isJournal" : true,
+    "subMetaphor" : "NA",
+    "year" : 2009,
+    "metaphor" : "Gravitation",
+    "citationsDOI" : "10.1016\/j.ins.2009.03.004"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "10.1007\/978-3-642-25566-3_17",
+    "citationsCount" : 8,
+    "publishLocation" : "Lecture Notes in Computer Science",
+    "title" : "Gravitational Interactions Optimization",
+    "isJournal" : false,
+    "subMetaphor" : "Interactions",
+    "year" : 2011,
+    "metaphor" : "Gravitation",
+    "citationsDOI" : "10.1007\/978-3-642-25566-3_17"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "10.1006\/jcph.1993.1010",
+    "citationsCount" : 445,
+    "publishLocation" : "Journal of Computational Physics",
+    "title" : "New Optimization Heuristics: The Great Deluge and Record to Record Travel",
+    "isJournal" : true,
+    "subMetaphor" : "NA",
+    "year" : 1993,
+    "metaphor" : "Great Deluge",
+    "citationsDOI" : "10.1006\/jcph.1993.1010"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "10.1016\/j.asoc.2009.11.032",
+    "citationsCount" : 88,
+    "publishLocation" : "Applied Soft Computing",
+    "title" : "Grenade Explosion Method---A novel tool for optimization of multimodal functions",
+    "isJournal" : true,
+    "subMetaphor" : "NA",
+    "year" : 2010,
+    "metaphor" : "Grenades",
+    "citationsDOI" : "10.1016\/j.asoc.2009.11.032"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "10.1007\/978-1-84882-983-1_14",
+    "citationsCount" : 7,
+    "publishLocation" : "Research and Development in Intelligent Systems XXVI",
+    "title" : "Group Counseling Optimization: A Novel Approach",
+    "isJournal" : false,
+    "subMetaphor" : "NA",
+    "year" : 2009,
+    "metaphor" : "Group Counselling",
+    "citationsDOI" : "10.1007\/978-1-84882-983-1_14"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "10.1016\/j.neucom.2016.09.068",
+    "citationsCount" : 27,
+    "publishLocation" : "Neurocomputing",
+    "title" : "Collective decision optimization algorithm: A new heuristic optimization method",
+    "isJournal" : true,
+    "subMetaphor" : "NA",
+    "year" : 2017,
+    "metaphor" : "Group Decision-Making",
+    "citationsDOI" : "10.1016\/j.neucom.2016.09.068"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "NA",
+    "publishLocation" : "Proceedings on the International Conference on Artificial Intelligence (ICAI)",
+    "title" : "Harris's Hawk Multi-Objective Optimizer for Reference Point Problems",
+    "isJournal" : false,
+    "subMetaphor" : "Harris's Hawk",
+    "year" : 2016,
+    "metaphor" : "Hawks",
+    "citationsDOI" : "NA"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "10.1007\/s13748-014-0046-5",
+    "citationsCount" : 20,
+    "publishLocation" : "Progress in Artificial Intelligence",
+    "title" : "Heart: a novel optimization algorithm for cluster analysis",
+    "isJournal" : true,
+    "subMetaphor" : "NA",
+    "year" : 2014,
+    "metaphor" : "Heart",
+    "citationsDOI" : "10.1007\/s13748-014-0046-5"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "10.1016\/j.biosystems.2017.07.010",
+    "citationsCount" : 72,
+    "publishLocation" : "Biosystems",
+    "title" : "A global optimization algorithm inspired in the behavior of selfish herds",
+    "isJournal" : true,
+    "subMetaphor" : "Selfish",
+    "year" : 2017,
+    "metaphor" : "Herds",
+    "citationsDOI" : "10.1016\/j.biosystems.2017.07.010"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "NA",
+    "publishLocation" : "International Journal of Science and Advanced Technology",
+    "title" : "New Hoopoe Heuristic Optimization",
+    "isJournal" : true,
+    "subMetaphor" : "NA",
+    "year" : 2012,
+    "metaphor" : "Hoopoe",
+    "citationsDOI" : "NA"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "10.1177\/0954405416662078",
+    "citationsCount" : 7,
+    "publishLocation" : "Proceedings of the Institution of Mechanical Engineers, Part B: Journal of Engineering Manufacture",
+    "title" : "A hormone regulation-based approach for distributed and on-line scheduling of machines and automated guided vehicles",
+    "isJournal" : true,
+    "subMetaphor" : "NA",
+    "year" : 2016,
+    "metaphor" : "Hormones",
+    "citationsDOI" : "10.1177\/0954405416662078"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "10.1007\/978-3-030-51971-1_16",
+    "citationsCount" : 0,
+    "publishLocation" : "Advances in Intelligent Systems and Computing",
+    "title" : "Horse Optimization Algorithm: A Novel Bio-Inspired Algorithm for Solving Global Optimization Problems",
+    "isJournal" : false,
+    "subMetaphor" : "NA",
+    "year" : 2020,
+    "metaphor" : "Horses",
+    "citationsDOI" : "10.1007\/978-3-030-51971-1_16"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "10.1007\/s00500-019-04443-z",
+    "citationsCount" : 6,
+    "publishLocation" : "Soft Computing",
+    "title" : "A novel life choice-based optimizer",
+    "isJournal" : true,
+    "subMetaphor" : "Life Choices",
+    "year" : 2019,
+    "metaphor" : "Humans",
+    "citationsDOI" : "10.1007\/s00500-019-04443-z"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "10.1093\/comjnl\/bxy133",
+    "citationsCount" : 37,
+    "publishLocation" : "The Computer Journal",
+    "title" : "Deer Hunting Optimization Algorithm: A New Nature-Inspired Meta-heuristic Paradigm",
+    "isJournal" : true,
+    "subMetaphor" : "Hunting",
+    "year" : 2019,
+    "metaphor" : "Humans",
+    "citationsDOI" : "10.1093\/comjnl\/bxy133"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "10.1155\/2019\/2482543",
+    "citationsCount" : 19,
+    "publishLocation" : "Mathematical Problems in Engineering",
+    "title" : "A New Optimization Algorithm Based on Search and Rescue Operations",
+    "isJournal" : true,
+    "subMetaphor" : "Search and Rescue",
+    "year" : 2019,
+    "metaphor" : "Humans",
+    "citationsDOI" : "10.1155\/2019\/2482543"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "10.1016\/j.advengsoft.2020.102804",
+    "citationsCount" : 16,
+    "publishLocation" : "Advances in Engineering Software",
+    "title" : "Student psychology based optimization algorithm: A new population based optimization algorithm for solving optimization problems",
+    "isJournal" : true,
+    "subMetaphor" : "Students",
+    "year" : 2020,
+    "metaphor" : "Humans",
+    "citationsDOI" : "10.1016\/j.advengsoft.2020.102804"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "10.1016\/j.advengsoft.2017.05.014",
+    "citationsCount" : 261,
+    "publishLocation" : "Advances in Engineering Software",
+    "title" : "Spotted hyena optimizer: A novel bio-inspired based metaheuristic technique for engineering applications",
+    "isJournal" : true,
+    "subMetaphor" : "NA",
+    "year" : 2017,
+    "metaphor" : "Hyenas",
+    "citationsDOI" : "10.1016\/j.advengsoft.2017.05.014"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "10.1016\/j.ecoinf.2006.07.003",
+    "citationsCount" : 757,
+    "publishLocation" : "Ecological Informatics",
+    "title" : "A novel numerical optimization algorithm inspired from weed colonization",
+    "isJournal" : true,
+    "subMetaphor" : "NA",
+    "year" : 2006,
+    "metaphor" : "Invasive Weeds",
+    "citationsDOI" : "10.1016\/j.ecoinf.2006.07.003"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "10.1016\/j.isatra.2014.03.018",
+    "citationsCount" : 226,
+    "publishLocation" : "ISA Transactions",
+    "title" : "Interior search algorithm (ISA): A novel approach for global optimization",
+    "isJournal" : true,
+    "subMetaphor" : "NA",
+    "year" : 2014,
+    "metaphor" : "Interior Design",
+    "citationsDOI" : "10.1016\/j.isatra.2014.03.018"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "10.1016\/j.asoc.2015.03.035",
+    "citationsCount" : 96,
+    "publishLocation" : "Applied Soft Computing",
+    "title" : "Ions motion algorithm for solving optimization problems",
+    "isJournal" : true,
+    "subMetaphor" : "NA",
+    "year" : 2015,
+    "metaphor" : "Ions",
+    "citationsDOI" : "10.1016\/j.asoc.2015.03.035"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "10.1109\/smc.2015.282",
+    "citationsCount" : 7,
+    "publishLocation" : "2015 IEEE International Conference on Systems, Man, and Cybernetics",
+    "title" : "A Novel Metaheuristic: Jaguar Algorithm with Learning Behavior",
+    "isJournal" : false,
+    "subMetaphor" : "NA",
+    "year" : 2015,
+    "metaphor" : "Jaguars",
+    "citationsDOI" : "10.1109\/smc.2015.282"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "10.1016\/j.asoc.2014.09.034",
+    "citationsCount" : 41,
+    "publishLocation" : "Applied Soft Computing",
+    "title" : "Solving the integrated scheduling of production and rail transportation problem by Keshtel algorithm",
+    "isJournal" : true,
+    "subMetaphor" : "NA",
+    "year" : 2014,
+    "metaphor" : "Keshtel Duck",
+    "citationsDOI" : "10.1016\/j.asoc.2014.09.034"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "10.1109\/cicn.2016.76",
+    "citationsCount" : 2,
+    "publishLocation" : "2016 8th International Conference on Computational Intelligence and Communication Networks (CICN)",
+    "title" : "Kestrel-Based Search Algorithm for Association Rule Mining and Classification of Frequently Changed Items",
+    "isJournal" : false,
+    "subMetaphor" : "NA",
+    "year" : 2016,
+    "metaphor" : "Kestrels",
+    "citationsDOI" : "10.1109\/cicn.2016.76"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "10.1016\/j.cnsns.2016.06.006",
+    "citationsCount" : 52,
+    "publishLocation" : "Communications in Nonlinear Science and Numerical Simulation",
+    "title" : "Kidney-inspired algorithm for optimization problems",
+    "isJournal" : true,
+    "subMetaphor" : "NA",
+    "year" : 2017,
+    "metaphor" : "Kidneys",
+    "citationsDOI" : "10.1016\/j.cnsns.2016.06.006"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "10.1016\/j.cnsns.2012.05.010",
+    "citationsCount" : 975,
+    "publishLocation" : "Communications in Nonlinear Science and Numerical Simulation",
+    "title" : "Krill herd: A new bio-inspired optimization algorithm",
+    "isJournal" : true,
+    "subMetaphor" : "NA",
+    "year" : 2012,
+    "metaphor" : "Krill",
+    "citationsDOI" : "10.1016\/j.cnsns.2012.05.010"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "10.1155\/2013\/378515",
+    "citationsCount" : 8,
+    "publishLocation" : "The Scientific World Journal",
+    "title" : "Seven-Spot Ladybird Optimization: A Novel and Efficient Metaheuristic Algorithm for Numerical Optimization",
+    "isJournal" : true,
+    "subMetaphor" : "NA",
+    "year" : 2013,
+    "metaphor" : "Ladybirds",
+    "citationsDOI" : "10.1155\/2013\/378515"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "10.1016\/j.asoc.2015.07.028",
+    "citationsCount" : 172,
+    "publishLocation" : "Applied Soft Computing",
+    "title" : "Lightning search algorithm",
+    "isJournal" : true,
+    "subMetaphor" : "NA",
+    "year" : 2015,
+    "metaphor" : "Lightning",
+    "citationsDOI" : "10.1016\/j.asoc.2015.07.028"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "10.1007\/s11432-012-4548-0",
+    "citationsCount" : 41,
+    "publishLocation" : "Science China Information Sciences",
+    "title" : "Lion pride optimizer: An optimization algorithm inspired by lion pride behavior",
+    "isJournal" : true,
+    "subMetaphor" : "NA",
+    "year" : 2012,
+    "metaphor" : "Lions",
+    "citationsDOI" : "10.1007\/s11432-012-4548-0"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "10.1007\/978-3-642-10427-5_21",
+    "citationsCount" : 4,
+    "publishLocation" : "Artificial Life: Borrowing from Biology",
+    "title" : "An Analysis of Locust Swarms on Large Scale Global Optimization Problems",
+    "isJournal" : false,
+    "subMetaphor" : "NA",
+    "year" : 2009,
+    "metaphor" : "Locusts",
+    "citationsDOI" : "10.1007\/978-3-642-10427-5_21"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "10.1016\/j.cie.2020.106559",
+    "citationsCount" : 35,
+    "publishLocation" : "Computers & Industrial Engineering",
+    "title" : "A mayfly optimization algorithm",
+    "isJournal" : true,
+    "subMetaphor" : "NA",
+    "year" : 2020,
+    "metaphor" : "Mayflies",
+    "citationsDOI" : "10.1016\/j.cie.2020.106559"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "10.1016\/j.asoc.2014.02.006",
+    "citationsCount" : 108,
+    "publishLocation" : "Applied Soft Computing",
+    "title" : "Exchange market algorithm",
+    "isJournal" : true,
+    "subMetaphor" : "NA",
+    "year" : 2014,
+    "metaphor" : "Markets",
+    "citationsDOI" : "10.1016\/j.asoc.2014.02.006"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "10.1016\/j.eswa.2020.113377",
+    "citationsCount" : 149,
+    "publishLocation" : "Expert Systems with Applications",
+    "title" : "Marine Predators Algorithm: A nature-inspired metaheuristic",
+    "isJournal" : true,
+    "subMetaphor" : "NA",
+    "year" : 2020,
+    "metaphor" : "Marine Predators",
+    "citationsDOI" : "10.1016\/j.eswa.2020.113377"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "NA",
+    "publishLocation" : "Proceedings of the European Symposium on Artificial Neural Networks, Computational Intelligence and Machine Learning",
+    "title" : "Meerkats-inspired Algorithm for Global Optimization Problems",
+    "isJournal" : false,
+    "subMetaphor" : "NA",
+    "year" : 2018,
+    "metaphor" : "Meerkats",
+    "citationsDOI" : "NA"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "NA",
+    "publishLocation" : "TABRIZ JOURNAL OF ELECTRICAL ENGINEERING",
+    "title" : "A New Algorithm: Wild Mice Colony Algorithm (WMC)",
+    "isJournal" : true,
+    "subMetaphor" : "Wild Mice",
+    "year" : 2019,
+    "metaphor" : "Mice",
+    "citationsDOI" : "NA"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "10.1016\/j.compstruc.2012.03.013",
+    "citationsCount" : 111,
+    "publishLocation" : "Computers & Structures",
+    "title" : "Mine blast algorithm for optimization of truss structures with discrete variables",
+    "isJournal" : true,
+    "subMetaphor" : "NA",
+    "year" : 2012,
+    "metaphor" : "Mine Explosions",
+    "citationsDOI" : "10.1016\/j.compstruc.2012.03.013"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "10.1016\/j.knosys.2018.08.030",
+    "citationsCount" : 109,
+    "publishLocation" : "Knowledge-Based Systems",
+    "title" : "Atom search optimization and its application to solve a hydrogeologic parameter estimation problem",
+    "isJournal" : true,
+    "subMetaphor" : "NA",
+    "year" : 2019,
+    "metaphor" : "Molecular Dynamics",
+    "citationsDOI" : "10.1016\/j.knosys.2018.08.030"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "10.1063\/1.2817338",
+    "citationsCount" : 112,
+    "publishLocation" : "AIP Conference Proceedings",
+    "title" : "Monkey search: a novel metaheuristic search for global optimization",
+    "isJournal" : false,
+    "subMetaphor" : "Monkey Foraging",
+    "year" : 2007,
+    "metaphor" : "Monkeys",
+    "citationsDOI" : "10.1063\/1.2817338"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "10.1007\/s12293-013-0128-0",
+    "citationsCount" : 238,
+    "publishLocation" : "Memetic Computing",
+    "title" : "Spider Monkey Optimization algorithm for numerical optimization",
+    "isJournal" : true,
+    "subMetaphor" : "Spider Monkeys",
+    "year" : 2014,
+    "metaphor" : "Monkeys",
+    "citationsDOI" : "10.1007\/s12293-013-0128-0"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "10.1109\/icicisys.2009.5357838",
+    "citationsCount" : 19,
+    "publishLocation" : "2009 IEEE International Conference on Intelligent Computing and Intelligent Systems",
+    "title" : "Human-Inspired Algorithms for continuous function optimization",
+    "isJournal" : false,
+    "subMetaphor" : "NA",
+    "year" : 2009,
+    "metaphor" : "Mountain Climbers",
+    "citationsDOI" : "10.1109\/icicisys.2009.5357838"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "10.1016\/j.knosys.2015.07.006",
+    "citationsCount" : 1252,
+    "publishLocation" : "Knowledge-Based Systems",
+    "title" : "Moth-flame optimization algorithm: A novel nature-inspired heuristic paradigm",
+    "isJournal" : true,
+    "subMetaphor" : "NA",
+    "year" : 2015,
+    "metaphor" : "Moths",
+    "citationsDOI" : "10.1016\/j.knosys.2015.07.006"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "10.1007\/s00521-015-1870-7",
+    "citationsCount" : 679,
+    "publishLocation" : "Neural Computing and Applications",
+    "title" : "Multi-Verse Optimizer: a nature-inspired algorithm for global optimization",
+    "isJournal" : true,
+    "subMetaphor" : "NA",
+    "year" : 2015,
+    "metaphor" : "Multiverse",
+    "citationsDOI" : "10.1007\/s00521-015-1870-7"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "10.1177\/003754970107600201",
+    "citationsCount" : 3363,
+    "publishLocation" : "SIMULATION",
+    "title" : "A New Heuristic Optimization Algorithm: Harmony Search",
+    "isJournal" : true,
+    "subMetaphor" : "NA",
+    "year" : 2001,
+    "metaphor" : "Musicians",
+    "citationsDOI" : "10.1177\/003754970107600201"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "NA",
+    "publishLocation" : "2018 IEEE Congress on Evolutionary Computation",
+    "title" : "Mushroom Reproduction Optimization (MRO): A Novel Nature-Inspired Evolutionary Algorithm",
+    "isJournal" : false,
+    "subMetaphor" : "NA",
+    "year" : 2018,
+    "metaphor" : "Mushroom Reproduction",
+    "citationsDOI" : "NA"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "10.1016\/j.asoc.2011.07.020",
+    "citationsCount" : 10,
+    "publishLocation" : "Applied Soft Computing",
+    "title" : "MOX: A novel global optimization algorithm inspired from Oviposition site selection and egg hatching inhibition in mosquitoes",
+    "isJournal" : true,
+    "subMetaphor" : "Egg-laying Behavior",
+    "year" : 2011,
+    "metaphor" : "Mosquitos",
+    "citationsDOI" : "10.1016\/j.asoc.2011.07.020"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "10.1109\/iceeot.2016.7754783",
+    "citationsCount" : 4,
+    "publishLocation" : "2016 International Conference on Electrical, Electronics, and Optimization Techniques (ICEEOT)",
+    "title" : "Mosquito flying optimization (MFO)",
+    "isJournal" : false,
+    "subMetaphor" : "Flying Behavior",
+    "year" : 2016,
+    "metaphor" : "Mosquitos",
+    "citationsDOI" : "10.1109\/iceeot.2016.7754783"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "10.1016\/j.advengsoft.2017.03.014",
+    "citationsCount" : 155,
+    "publishLocation" : "Advances in Engineering Software",
+    "title" : "A novel meta-heuristic optimization algorithm: Thermal exchange optimization",
+    "isJournal" : true,
+    "subMetaphor" : "NA",
+    "year" : 2017,
+    "metaphor" : "Newton's Cooling Law",
+    "citationsDOI" : "10.1016\/j.advengsoft.2017.03.014"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "NA",
+    "publishLocation" : "International Journal of Optimization in Civil Engineering",
+    "title" : "NEW META-HEURISTIC OPTIMIZATION ALGORITHM USING NEURONAL COMMUNICATION",
+    "isJournal" : true,
+    "subMetaphor" : "NA",
+    "year" : 2017,
+    "metaphor" : "Neurons",
+    "citationsDOI" : "NA"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "NA",
+    "publishLocation" : "Proceedings of 6th WCSMO",
+    "title" : "A new stochastic optimization algorithm based on a particle collision metaheuristic",
+    "isJournal" : true,
+    "subMetaphor" : "NA",
+    "year" : 2005,
+    "metaphor" : "Nuclear Collision",
+    "citationsDOI" : "NA"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "10.1016\/j.cor.2014.10.011",
+    "citationsCount" : 74,
+    "publishLocation" : "Computers & Operations Research",
+    "title" : "A new metaheuristic for optimization: Optics inspired optimization (OIO)",
+    "isJournal" : true,
+    "subMetaphor" : "NA",
+    "year" : 2015,
+    "metaphor" : "Optics",
+    "citationsDOI" : "10.1016\/j.cor.2014.10.011"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "10.1016\/j.tsep.2019.100431",
+    "citationsCount" : 16,
+    "publishLocation" : "Thermal Science and Engineering Progress",
+    "title" : "Metaheuristic inspired on owls behavior applied to heat exchangers design",
+    "isJournal" : true,
+    "subMetaphor" : "NA",
+    "year" : 2019,
+    "metaphor" : "Owls",
+    "citationsDOI" : "10.1016\/j.tsep.2019.100431"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "10.1109\/iciinfs.2009.5429852",
+    "citationsCount" : 32,
+    "publishLocation" : "2009 International Conference on Industrial and Information Systems (ICIIS)",
+    "title" : "A new biologically inspired optimization algorithm",
+    "isJournal" : false,
+    "subMetaphor" : "NA",
+    "year" : 2009,
+    "metaphor" : "Paddy Fields",
+    "citationsDOI" : "10.1109\/iciinfs.2009.5429852"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "10.1007\/978-3-642-34413-8_26",
+    "citationsCount" : 8,
+    "publishLocation" : "Lecture Notes in Computer Science",
+    "title" : "A Hyper-Heuristic Inspired by Pearl Hunting",
+    "isJournal" : false,
+    "subMetaphor" : "NA",
+    "year" : 2012,
+    "metaphor" : "Pearl Hunting",
+    "citationsDOI" : "10.1007\/978-3-642-34413-8_26"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "10.1007\/978-3-642-38577-3_23",
+    "citationsCount" : 30,
+    "publishLocation" : "Recent Trends in Applied Artificial Intelligence",
+    "title" : "Penguins Search Optimization Algorithm (PeSOA)",
+    "isJournal" : false,
+    "subMetaphor" : "NA",
+    "year" : 2013,
+    "metaphor" : "Penguins",
+    "citationsDOI" : "10.1007\/978-3-642-38577-3_23"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "10.1016\/j.knosys.2018.06.001",
+    "citationsCount" : 218,
+    "publishLocation" : "Knowledge-Based Systems",
+    "title" : "Emperor penguin optimizer: A bio-inspired algorithm for engineering problems",
+    "isJournal" : true,
+    "subMetaphor" : "Emperor Penguins",
+    "year" : 2018,
+    "metaphor" : "Penguins",
+    "citationsDOI" : "10.1016\/j.knosys.2018.06.001"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "NA",
+    "publishLocation" : "International Journal of Intelligent Computing and Cybernetics",
+    "title" : "Pigeon-inspired optimization: a new swarm intelligence optimizer for air robot path planning",
+    "isJournal" : true,
+    "subMetaphor" : "NA",
+    "year" : 2014,
+    "metaphor" : "Pigeons",
+    "citationsDOI" : "NA"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "10.1007\/978-3-319-96451-5_3",
+    "citationsCount" : 12,
+    "publishLocation" : "Advances in Nature-Inspired Computing and Applications",
+    "title" : "Artificial Feeding Birds (AFB): A New Metaheuristic Inspired by the Behavior of Pigeons",
+    "isJournal" : false,
+    "subMetaphor" : "Feeding",
+    "year" : 2018,
+    "metaphor" : "Pigeons",
+    "citationsDOI" : "10.1007\/978-3-319-96451-5_3"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "10.1166\/sl.2012.2627",
+    "citationsCount" : 1,
+    "publishLocation" : "Sensor Letters",
+    "title" : "An Improved Artificial Plant Optimization Algorithm for Coverage Problem in WSN",
+    "isJournal" : true,
+    "subMetaphor" : "Plant Growth",
+    "year" : 2012,
+    "metaphor" : "Plants",
+    "citationsDOI" : "10.1166\/sl.2012.2627"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "10.1155\/2014\/627416",
+    "citationsCount" : 27,
+    "publishLocation" : "Mathematical Problems in Engineering",
+    "title" : "A Plant Propagation Algorithm for Constrained Engineering Optimisation Problems",
+    "isJournal" : true,
+    "subMetaphor" : "Plant Propagation",
+    "year" : 2014,
+    "metaphor" : "Plants",
+    "citationsDOI" : "10.1155\/2014\/627416"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "10.1007\/s10462-016-9486-6",
+    "citationsCount" : 28,
+    "publishLocation" : "Artificial Intelligence Review",
+    "title" : "Plant intelligence based metaheuristic optimization algorithms",
+    "isJournal" : true,
+    "subMetaphor" : "Plant Intelligence",
+    "year" : 2016,
+    "metaphor" : "Plants",
+    "citationsDOI" : "10.1007\/s10462-016-9486-6"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "NA",
+    "publishLocation" : "International Conference on Intelligent Data Engineering and Automated Learning",
+    "title" : "Thinking capability of saplings growing up algorithm",
+    "isJournal" : false,
+    "subMetaphor" : "Sapling Growth",
+    "year" : 2006,
+    "metaphor" : "Plants",
+    "citationsDOI" : "NA"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "10.3390\/sym9100203",
+    "citationsCount" : 49,
+    "publishLocation" : "Symmetry",
+    "title" : "Polar Bear Optimization Algorithm: Meta-Heuristic with Fast Population Movement and Dynamic Birth and Death Mechanism",
+    "isJournal" : true,
+    "subMetaphor" : "NA",
+    "year" : 2017,
+    "metaphor" : "Polar Bears",
+    "citationsDOI" : "10.3390\/sym9100203"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "10.1007\/978-3-540-76631-5_7",
+    "citationsCount" : 8,
+    "publishLocation" : "MICAI 2007: Advances in Artificial Intelligence",
+    "title" : "A New Global Optimization Algorithm Inspired by Parliamentary Political Competitions",
+    "isJournal" : false,
+    "subMetaphor" : "Parliamentarist Elections",
+    "year" : 2007,
+    "metaphor" : "Politics",
+    "citationsDOI" : "10.1007\/978-3-540-76631-5_7"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "10.3233\/AIC-140652",
+    "citationsCount" : 23,
+    "publishLocation" : "AI Communications",
+    "title" : "Election algorithm: A new socio-politically inspired strategy",
+    "isJournal" : true,
+    "subMetaphor" : "Presidential Elections",
+    "year" : 2015,
+    "metaphor" : "Politics",
+    "citationsDOI" : "10.3233\/AIC-140652"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "10.1109\/cec.2007.4425083",
+    "citationsCount" : 848,
+    "publishLocation" : "2007 IEEE Congress on Evolutionary Computation",
+    "title" : "Imperialist competitive algorithm: An algorithm for optimization inspired by imperialistic competition",
+    "isJournal" : false,
+    "subMetaphor" : "Imperialism",
+    "year" : 2007,
+    "metaphor" : "Politics",
+    "citationsDOI" : "10.1109\/cec.2007.4425083"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "10.1109\/iadcc.2014.6779490",
+    "citationsCount" : 2,
+    "publishLocation" : "2014 IEEE International Advance Computing Conference (IACC)",
+    "title" : "Greedy Politics Optimization: Metaheuristic inspired by political strategies adopted during state assembly elections",
+    "isJournal" : false,
+    "subMetaphor" : "Strategies",
+    "year" : 2014,
+    "metaphor" : "Politics",
+    "citationsDOI" : "10.1109\/iadcc.2014.6779490"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "10.1109\/la-cci.2015.7435984",
+    "citationsCount" : 2,
+    "publishLocation" : "2015 Latin America Congress on Computational Intelligence (LA-CCI)",
+    "title" : "An approach to real-coded quantum inspired evolutionary algorithm using particles filter",
+    "isJournal" : false,
+    "subMetaphor" : "NA",
+    "year" : 2015,
+    "metaphor" : "Quantum Superposition",
+    "citationsDOI" : "10.1109\/la-cci.2015.7435984"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "10.1016\/j.swevo.2017.11.006",
+    "citationsCount" : 16,
+    "publishLocation" : "Swarm and Evolutionary Computation",
+    "title" : "Improved Raven Roosting Optimization algorithm (IRRO)",
+    "isJournal" : true,
+    "subMetaphor" : "NA",
+    "year" : 2017,
+    "metaphor" : "Ravens",
+    "citationsDOI" : "10.1016\/j.swevo.2017.11.006"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "10.1016\/j.compstruc.2012.09.003",
+    "citationsCount" : 356,
+    "publishLocation" : "Computers & Structures",
+    "title" : "A new meta-heuristic method: Ray Optimization",
+    "isJournal" : true,
+    "subMetaphor" : "NA",
+    "year" : 2012,
+    "metaphor" : "Rays of Light",
+    "citationsDOI" : "10.1016\/j.compstruc.2012.09.003"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "10.1109\/cinti.2010.5672231",
+    "citationsCount" : 4,
+    "publishLocation" : "2010 11th International Symposium on Computational Intelligence and Informatics (CINTI)",
+    "title" : "A new optimizing algorithm using reincarnation concept",
+    "isJournal" : false,
+    "subMetaphor" : "NA",
+    "year" : 2010,
+    "metaphor" : "Reincarnation",
+    "citationsDOI" : "10.1109\/cinti.2010.5672231"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "NA",
+    "publishLocation" : "Proceedings of The 9th EUROSIM Congress on Modelling and Simulation, EUROSIM 2016, The 57th SIMS Conference on Simulation and Modelling SIMS 2016",
+    "title" : "A novel metaheuristic algorithm inspired by rhino herd behavior",
+    "isJournal" : false,
+    "subMetaphor" : "NA",
+    "year" : 2016,
+    "metaphor" : "Rhinoceros",
+    "citationsDOI" : "NA"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "10.1109\/iccse.2016.7581575",
+    "citationsCount" : 2,
+    "publishLocation" : "2016 11th International Conference on Computer Science & Education (ICCSE)",
+    "title" : "A hybrid rice optimization algorithm",
+    "isJournal" : false,
+    "subMetaphor" : "Hybrid",
+    "year" : 2016,
+    "metaphor" : "Rice",
+    "citationsDOI" : "10.1109\/iccse.2016.7581575"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "10.1007\/978-3-540-73554-0_16",
+    "citationsCount" : 58,
+    "publishLocation" : "Lecture Notes in Computer Science",
+    "title" : "Using River Formation Dynamics to Design Heuristic Algorithms",
+    "isJournal" : false,
+    "subMetaphor" : "NA",
+    "year" : 2007,
+    "metaphor" : "River Formation",
+    "citationsDOI" : "10.1007\/978-3-540-73554-0_16"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "10.1109\/sis.2008.4668317",
+    "citationsCount" : 52,
+    "publishLocation" : "2008 IEEE Swarm Intelligence Symposium",
+    "title" : "Roach Infestation Optimization",
+    "isJournal" : false,
+    "subMetaphor" : "NA",
+    "year" : 2008,
+    "metaphor" : "Roach Infestations",
+    "citationsDOI" : "10.1109\/sis.2008.4668317"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "10.1016\/j.asoc.2015.04.048",
+    "citationsCount" : 69,
+    "publishLocation" : "Applied Soft Computing",
+    "title" : "The runner-root algorithm: A metaheuristic for solving unimodal and multimodal optimization problems inspired by runners and roots of plants in nature",
+    "isJournal" : true,
+    "subMetaphor" : "NA",
+    "year" : 2015,
+    "metaphor" : "Roots",
+    "citationsDOI" : "10.1016\/j.asoc.2015.04.048"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "10.1016\/j.engappai.2019.01.001",
+    "citationsCount" : 95,
+    "publishLocation" : "Engineering Applications of Artificial Intelligence",
+    "title" : "The Sailfish Optimizer: A novel nature-inspired metaheuristic algorithm for solving constrained engineering optimization problems",
+    "isJournal" : true,
+    "subMetaphor" : "NA",
+    "year" : 2019,
+    "metaphor" : "Sailfish",
+    "citationsDOI" : "10.1016\/j.engappai.2019.01.001"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "NA",
+    "publishLocation" : "International Journal of Bio-Inspired Computation",
+    "title" : "The great salmon run: a novel bio-inspired algorithm for artificial system design and optimisation",
+    "isJournal" : true,
+    "subMetaphor" : "NA",
+    "year" : 2012,
+    "metaphor" : "Salmon Migrations",
+    "citationsDOI" : "NA"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "10.1016\/j.advengsoft.2017.07.002",
+    "citationsCount" : 1136,
+    "publishLocation" : "Advances in Engineering Software",
+    "title" : "Salp Swarm Algorithm: A bio-inspired optimizer for engineering design problems",
+    "isJournal" : true,
+    "subMetaphor" : "NA",
+    "year" : 2017,
+    "metaphor" : "Salp Planktons",
+    "citationsDOI" : "10.1016\/j.advengsoft.2017.07.002"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "10.1007\/s10489-019-01507-3",
+    "citationsCount" : 5,
+    "publishLocation" : "Applied Intelligence",
+    "title" : "Sandpiper optimization algorithm: a novel approach for solving real-life engineering problems",
+    "isJournal" : true,
+    "subMetaphor" : "NA",
+    "year" : 2019,
+    "metaphor" : "Sandpiper",
+    "citationsDOI" : "10.1007\/s10489-019-01507-3"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "10.1109\/cec.2014.6900556",
+    "citationsCount" : 8,
+    "publishLocation" : "2014 IEEE Congress on Evolutionary Computation (CEC)",
+    "title" : "Scientific algorithms for the Car Renter Salesman Problem",
+    "isJournal" : false,
+    "subMetaphor" : "NA",
+    "year" : 2014,
+    "metaphor" : "Scientific Method",
+    "citationsDOI" : "10.1109\/cec.2014.6900556"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "10.1016\/j.knosys.2018.11.024",
+    "citationsCount" : 145,
+    "publishLocation" : "Knowledge-Based Systems",
+    "title" : "Seagull optimization algorithm: Theory and its applications for large-scale industrial engineering problems",
+    "isJournal" : true,
+    "subMetaphor" : "NA",
+    "year" : 2019,
+    "metaphor" : "Seagulls",
+    "citationsDOI" : "10.1016\/j.knosys.2018.11.024"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "10.1109\/micai.2015.22",
+    "citationsCount" : 2,
+    "publishLocation" : "2015 Fourteenth Mexican International Conference on Artificial Intelligence (MICAI)",
+    "title" : "SSPCO Optimization Algorithm (See-See Partridge Chicks Optimization)",
+    "isJournal" : false,
+    "subMetaphor" : "NA",
+    "year" : 2015,
+    "metaphor" : "See-See Partridges",
+    "citationsDOI" : "10.1109\/micai.2015.22"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "10.1002\/cplx.21634",
+    "citationsCount" : 88,
+    "publishLocation" : "Complexity",
+    "title" : "A new metaheuristic algorithm based on shark smell optimization",
+    "isJournal" : true,
+    "subMetaphor" : "NA",
+    "year" : 2014,
+    "metaphor" : "Sharks",
+    "citationsDOI" : "10.1002\/cplx.21634"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "10.1109\/icet48972.2019.8994757",
+    "citationsCount" : 0,
+    "publishLocation" : "2019 15th International Conference on Emerging Technologies (ICET)",
+    "title" : "On Nature-Inspired Dynamic Route Planning: Hammerhead Shark Optimization Algorithm",
+    "isJournal" : false,
+    "subMetaphor" : "Hammerhead",
+    "year" : 2019,
+    "metaphor" : "Sharks",
+    "citationsDOI" : "10.1109\/icet48972.2019.8994757"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "10.1109\/pacrim.2001.953683",
+    "citationsCount" : 2,
+    "publishLocation" : "2001 IEEE Pacific Rim Conference on Communications, Computers and Signal Processing (IEEE Cat. No.01CH37233)",
+    "title" : "A new evolutionary algorithm based on sheep flocks heredity model",
+    "isJournal" : false,
+    "subMetaphor" : "NA",
+    "year" : 2001,
+    "metaphor" : "Sheep Flocks",
+    "citationsDOI" : "10.1109\/pacrim.2001.953683"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "NA",
+    "publishLocation" : "Advances in Electrical and Computer Engineering",
+    "title" : "Golden sine algorithm: a novel math-inspired algorithm",
+    "isJournal" : true,
+    "subMetaphor" : "NA",
+    "year" : 2017,
+    "metaphor" : "Sine Waves",
+    "citationsDOI" : "NA"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "10.1109\/sis.2008.4668295",
+    "citationsCount" : 13,
+    "publishLocation" : "2008 IEEE Swarm Intelligence Symposium",
+    "title" : "Slime Mold as a model for numerical optimization",
+    "isJournal" : false,
+    "subMetaphor" : "NA",
+    "year" : 2008,
+    "metaphor" : "Slime Mold",
+    "citationsDOI" : "10.1109\/sis.2008.4668295"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "10.1007\/11881223_33",
+    "citationsCount" : 51,
+    "publishLocation" : "Lecture Notes in Computer Science",
+    "title" : "Small-World Optimization Algorithm for Function Optimization",
+    "isJournal" : false,
+    "subMetaphor" : "NA",
+    "year" : 2006,
+    "metaphor" : "Small World",
+    "citationsDOI" : "10.1007\/11881223_33"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "10.20965\/jaciii.2011.p1116",
+    "citationsCount" : 57,
+    "publishLocation" : "Journal of Advanced Computational Intelligence and Intelligent Informatics",
+    "title" : "Spiral Dynamics Inspired Optimization",
+    "isJournal" : true,
+    "subMetaphor" : "NA",
+    "year" : 2011,
+    "metaphor" : "Spirals",
+    "citationsDOI" : "10.20965\/jaciii.2011.p1116"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "10.4018\/978-1-4666-2086-5.ch013",
+    "citationsCount" : 8,
+    "publishLocation" : "Meta-Heuristics Optimization Algorithms in Engineering, Business, Economics, and Finance",
+    "title" : "Soccer Game Optimization",
+    "isJournal" : false,
+    "subMetaphor" : "Soccer Games",
+    "year" : 2013,
+    "metaphor" : "Soccer",
+    "citationsDOI" : "10.4018\/978-1-4666-2086-5.ch013"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "10.1007\/s10489-013-0512-y",
+    "citationsCount" : 48,
+    "publishLocation" : "Applied Intelligence",
+    "title" : "Golden ball: a novel meta-heuristic to solve combinatorial optimization problems based on soccer concepts",
+    "isJournal" : true,
+    "subMetaphor" : "Soccer Tournaments",
+    "year" : 2014,
+    "metaphor" : "Soccer",
+    "citationsDOI" : "10.1007\/s10489-013-0512-y"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "10.4236\/ijis.2014.41002",
+    "citationsCount" : 24,
+    "publishLocation" : "International Journal of Intelligence Science",
+    "title" : "Soccer League Competition Algorithm, a New Method for Solving Systems of Nonlinear Equations",
+    "isJournal" : true,
+    "subMetaphor" : "League",
+    "year" : 2014,
+    "metaphor" : "Soccer",
+    "citationsDOI" : "10.4236\/ijis.2014.41002"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "10.1108\/ec-03-2020-0137",
+    "citationsCount" : 1,
+    "publishLocation" : "Engineering Computations",
+    "title" : "Tiki-taka algorithm: a novel metaheuristic inspired by football playing style",
+    "isJournal" : true,
+    "subMetaphor" : "Style",
+    "year" : 2020,
+    "metaphor" : "Soccer",
+    "citationsDOI" : "10.1108\/ec-03-2020-0137"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "10.1109\/tevc.2003.814902",
+    "citationsCount" : 315,
+    "publishLocation" : "IEEE Transactions on Evolutionary Computation",
+    "title" : "Society and civilization: an optimization algorithm based on the simulation of social behavior",
+    "isJournal" : true,
+    "subMetaphor" : "NA",
+    "year" : 2003,
+    "metaphor" : "Social Behavior",
+    "citationsDOI" : "10.1109\/tevc.2003.814902"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "NA",
+    "publishLocation" : "Applied Mathematical Modelling",
+    "title" : "Queuing search algorithm: A novel metaheuristic algorithm for solving engineering optimization problems",
+    "isJournal" : true,
+    "subMetaphor" : "Queuing",
+    "year" : 2018,
+    "metaphor" : "Social Behavior",
+    "citationsDOI" : "NA"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "10.1109\/tie.2009.2031194",
+    "citationsCount" : 120,
+    "publishLocation" : "IEEE Transactions on Industrial Electronics",
+    "title" : "Seeker Optimization Algorithm for Digital IIR Filter Design",
+    "isJournal" : true,
+    "subMetaphor" : "Seeking",
+    "year" : 2010,
+    "metaphor" : "Social Behavior",
+    "citationsDOI" : "10.1109\/tie.2009.2031194"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "10.1080\/03772063.2019.1672586",
+    "citationsCount" : 1,
+    "publishLocation" : "IETE Journal of Research",
+    "title" : "Thieves and Police, a New Optimization Algorithm: Theory and Application in Probabilistic Power Flow",
+    "isJournal" : true,
+    "subMetaphor" : "Thieves and Police",
+    "year" : 2019,
+    "metaphor" : "Social Behavior",
+    "citationsDOI" : "10.1080\/03772063.2019.1672586"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "10.1016\/j.engappai.2019.08.025",
+    "citationsCount" : 30,
+    "publishLocation" : "Engineering Applications of Artificial Intelligence",
+    "title" : "Poor and rich optimization algorithm: A new human-based and multi populations algorithm",
+    "isJournal" : true,
+    "subMetaphor" : "Poor and Rich",
+    "year" : 2019,
+    "metaphor" : "Social Behavior",
+    "citationsDOI" : "10.1016\/j.engappai.2019.08.025"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "10.1016\/j.matcom.2020.05.023",
+    "citationsCount" : 0,
+    "publishLocation" : "Mathematics and Computers in Simulation",
+    "title" : "Human urbanization algorithm: A novel metaheuristic approach",
+    "isJournal" : true,
+    "subMetaphor" : "Urbanization",
+    "year" : 2020,
+    "metaphor" : "Social Behavior",
+    "citationsDOI" : "10.1016\/j.matcom.2020.05.023"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "NA",
+    "publishLocation" : "International Conference on Industrial Engineering",
+    "title" : "Social Engineering Optimization (SEO); A New Single-Solution Meta-heuristic Inspired by Social Engineering",
+    "isJournal" : false,
+    "subMetaphor" : "NA",
+    "year" : 2017,
+    "metaphor" : "Social Engineering",
+    "citationsDOI" : "NA"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "10.1016\/j.eswa.2013.05.041",
+    "citationsCount" : 274,
+    "publishLocation" : "Expert Systems with Applications",
+    "title" : "A swarm optimization algorithm inspired in the behavior of the social-spider",
+    "isJournal" : true,
+    "subMetaphor" : "NA",
+    "year" : 2013,
+    "metaphor" : "Social Spiders",
+    "citationsDOI" : "10.1016\/j.eswa.2013.05.041"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "10.1016\/j.engappai.2019.03.021",
+    "citationsCount" : 85,
+    "publishLocation" : "Engineering Applications of Artificial Intelligence",
+    "title" : "STOA: A bio-inspired based optimization algorithm for industrial engineering problems",
+    "isJournal" : true,
+    "subMetaphor" : "NA",
+    "year" : 2019,
+    "metaphor" : "Sooty Tern",
+    "citationsDOI" : "10.1016\/j.engappai.2019.03.021"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "10.1504\/ijor.2017.10002079",
+    "citationsCount" : 0,
+    "publishLocation" : "International Journal of Operational Research",
+    "title" : "Sperm motility algorithm: a novel metaheuristic approach for global optimisation",
+    "isJournal" : true,
+    "subMetaphor" : "NA",
+    "year" : 2017,
+    "metaphor" : "Sperm",
+    "citationsDOI" : "10.1504\/ijor.2017.10002079"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "10.1109\/socpar.2009.21",
+    "citationsCount" : 76,
+    "publishLocation" : "2009 International Conference of Soft Computing and Pattern Recognition",
+    "title" : "League Championship Algorithm: A New Algorithm for Numerical Function Optimization",
+    "isJournal" : false,
+    "subMetaphor" : "NA",
+    "year" : 2009,
+    "metaphor" : "Sports Championships",
+    "citationsDOI" : "10.1109\/socpar.2009.21"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "10.1016\/j.swevo.2018.02.013",
+    "citationsCount" : 217,
+    "publishLocation" : "Swarm and Evolutionary Computation",
+    "title" : "A novel nature-inspired algorithm for optimization: Squirrel search algorithm",
+    "isJournal" : true,
+    "subMetaphor" : "Flying Squirrels",
+    "year" : 2018,
+    "metaphor" : "Squirrels",
+    "citationsDOI" : "10.1016\/j.swevo.2018.02.013"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "10.1007\/s00521-012-0939-9",
+    "citationsCount" : 34,
+    "publishLocation" : "Neural Computing and Applications",
+    "title" : "Swallow swarm optimization algorithm: a new method to optimization",
+    "isJournal" : true,
+    "subMetaphor" : "NA",
+    "year" : 2012,
+    "metaphor" : "Swallows",
+    "citationsDOI" : "10.1007\/s00521-012-0939-9"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "10.1016\/j.compstruc.2014.03.007",
+    "citationsCount" : 654,
+    "publishLocation" : "Computers & Structures",
+    "title" : "Symbiotic Organisms Search: A new metaheuristic optimization algorithm",
+    "isJournal" : true,
+    "subMetaphor" : "NA",
+    "year" : 2014,
+    "metaphor" : "Symbiotic Organisms",
+    "citationsDOI" : "10.1016\/j.compstruc.2014.03.007"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "NA",
+    "publishLocation" : "Engineering Applications of Neural Networks",
+    "title" : "A New Metaheuristic Method for Optimization: Sonar Inspired Optimization",
+    "isJournal" : false,
+    "subMetaphor" : "NA",
+    "year" : 2017,
+    "metaphor" : "Sonar",
+    "citationsDOI" : "NA"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "10.1007\/s11063-017-9750-z",
+    "citationsCount" : 11,
+    "publishLocation" : "Neural Processing Letters",
+    "title" : "A Multimodal Optimization Algorithm Inspired by the States of Matter",
+    "isJournal" : true,
+    "subMetaphor" : "NA",
+    "year" : 2017,
+    "metaphor" : "States of Matter",
+    "citationsDOI" : "10.1007\/s11063-017-9750-z"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "10.1016\/j.cad.2010.12.015",
+    "citationsCount" : 1786,
+    "publishLocation" : "Computer-Aided Design",
+    "title" : "Teaching-learning-based optimization: A novel method for constrained mechanical design optimization problems",
+    "isJournal" : true,
+    "subMetaphor" : "NA",
+    "year" : 2011,
+    "metaphor" : "Teachers",
+    "citationsDOI" : "10.1016\/j.cad.2010.12.015"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "10.1109\/iraniancee.2010.5507009",
+    "citationsCount" : 34,
+    "publishLocation" : "2010 18th Iranian Conference on Electrical Engineering",
+    "title" : "Termite colony optimization: A novel approach for optimizing continuous problems",
+    "isJournal" : false,
+    "subMetaphor" : "NA",
+    "year" : 2010,
+    "metaphor" : "Termites",
+    "citationsDOI" : "10.1109\/iraniancee.2010.5507009"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "10.1109\/cso.2009.183",
+    "citationsCount" : 16,
+    "publishLocation" : "2009 International Joint Conference on Computational Sciences and Optimization",
+    "title" : "A Simulative Bionic Intelligent Optimization Algorithm: Artificial Searching Swarm Algorithm and Its Performance Analysis",
+    "isJournal" : false,
+    "subMetaphor" : "NA",
+    "year" : 2009,
+    "metaphor" : "Troops of Soldiers",
+    "citationsDOI" : "10.1109\/cso.2009.183"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "NA",
+    "publishLocation" : "Iran University of Science & Technology",
+    "title" : "A novel meta-heuristic algorithm: tug of war optimization",
+    "isJournal" : true,
+    "subMetaphor" : "NA",
+    "year" : 2016,
+    "metaphor" : "Tug of War",
+    "citationsDOI" : "NA"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "10.1016\/j.engappai.2020.103541",
+    "citationsCount" : 108,
+    "publishLocation" : "Engineering Applications of Artificial Intelligence",
+    "title" : "Tunicate Swarm Algorithm: A new bio-inspired based metaheuristic paradigm for global optimization",
+    "isJournal" : true,
+    "subMetaphor" : "NA",
+    "year" : 2020,
+    "metaphor" : "Turnicates",
+    "citationsDOI" : "10.1016\/j.engappai.2020.103541"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "10.1016\/j.procs.2017.08.055",
+    "citationsCount" : 6,
+    "publishLocation" : "Procedia Computer Science",
+    "title" : "Research on Permutation Flow-shop Scheduling Problem based on Improved Genetic Immune Algorithm with vaccinated offspring",
+    "isJournal" : true,
+    "subMetaphor" : "NA",
+    "year" : 2017,
+    "metaphor" : "Vaccination",
+    "citationsDOI" : "10.1016\/j.procs.2017.08.055"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "10.1007\/s00707-016-1725-z",
+    "citationsCount" : 54,
+    "publishLocation" : "Acta Mechanica",
+    "title" : "Vibrating particles system algorithm for truss optimization with multiple natural frequency constraints",
+    "isJournal" : true,
+    "subMetaphor" : "NA",
+    "year" : 2016,
+    "metaphor" : "Vibrating Particles",
+    "citationsDOI" : "10.1007\/s00707-016-1725-z"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "10.1016\/j.cor.2006.12.018",
+    "citationsCount" : 25,
+    "publishLocation" : "Computers & Operations Research",
+    "title" : "Viral systems: A new bio-inspired optimisation approach",
+    "isJournal" : true,
+    "subMetaphor" : "Virus Replication",
+    "year" : 2008,
+    "metaphor" : "Viruses",
+    "citationsDOI" : "10.1016\/j.cor.2006.12.018"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "10.1016\/j.advengsoft.2015.11.004",
+    "citationsCount" : 131,
+    "publishLocation" : "Advances in Engineering Software",
+    "title" : "A novel nature-inspired algorithm for optimization: Virus colony search",
+    "isJournal" : true,
+    "subMetaphor" : "Virus Colonies",
+    "year" : 2016,
+    "metaphor" : "Viruses",
+    "citationsDOI" : "10.1016\/j.advengsoft.2015.11.004"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "10.1016\/j.asoc.2016.02.038",
+    "citationsCount" : 11,
+    "publishLocation" : "Applied Soft Computing",
+    "title" : "Virulence Optimization Algorithm",
+    "isJournal" : true,
+    "subMetaphor" : "Virulence",
+    "year" : 2016,
+    "metaphor" : "Viruses",
+    "citationsDOI" : "10.1016\/j.asoc.2016.02.038"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "10.1016\/j.asoc.2012.07.010",
+    "citationsCount" : 22,
+    "publishLocation" : "Applied Soft Computing",
+    "title" : "Swine Influenza Models Based Optimization (SIMBO)",
+    "isJournal" : true,
+    "subMetaphor" : "Swine Flu",
+    "year" : 2013,
+    "metaphor" : "Virus",
+    "citationsDOI" : "10.1016\/j.asoc.2012.07.010"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "10.1080\/0305215x.2014.994868",
+    "citationsCount" : 25,
+    "publishLocation" : "Engineering Optimization",
+    "title" : "A novel metaheuristic for continuous optimization problems: Virus optimization algorithm",
+    "isJournal" : true,
+    "subMetaphor" : "Attacking",
+    "year" : 2015,
+    "metaphor" : "Virus",
+    "citationsDOI" : "10.1080\/0305215x.2014.994868"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "10.1016\/j.asoc.2017.11.043",
+    "citationsCount" : 57,
+    "publishLocation" : "Applied Soft Computing",
+    "title" : "Volleyball Premier League Algorithm",
+    "isJournal" : true,
+    "subMetaphor" : "NA",
+    "year" : 2018,
+    "metaphor" : "Volleyball Leagues",
+    "citationsDOI" : "10.1016\/j.asoc.2017.11.043"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "10.1016\/j.ins.2014.08.053",
+    "citationsCount" : 137,
+    "publishLocation" : "Information Sciences",
+    "title" : "A new metaheuristic for numerical function optimization: Vortex Search algorithm",
+    "isJournal" : true,
+    "subMetaphor" : "NA",
+    "year" : 2015,
+    "metaphor" : "Vortices",
+    "citationsDOI" : "10.1016\/j.ins.2014.08.053"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "10.1007\/978-3-642-37371-8_26",
+    "citationsCount" : 21,
+    "publishLocation" : "The 9th International Conference on Computing and InformationTechnology (IC2IT2013)",
+    "title" : "Egyptian Vulture Optimization Algorithm - A New Nature Inspired Meta-heuristics for Knapsack Problem",
+    "isJournal" : false,
+    "subMetaphor" : "NA",
+    "year" : 2013,
+    "metaphor" : "Vultures",
+    "citationsDOI" : "10.1007\/978-3-642-37371-8_26"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "10.1016\/j.apm.2015.10.040",
+    "citationsCount" : 78,
+    "publishLocation" : "Applied Mathematical Modelling",
+    "title" : "Passing vehicle search (PVS): A novel metaheuristic algorithm",
+    "isJournal" : true,
+    "subMetaphor" : "NA",
+    "year" : 2016,
+    "metaphor" : "Vehicles",
+    "citationsDOI" : "10.1016\/j.apm.2015.10.040"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "NA",
+    "publishLocation" : "Adaptive and Natural Computing Algorithms",
+    "title" : "Wasp swarm optimization of logistic systems",
+    "isJournal" : false,
+    "subMetaphor" : "NA",
+    "year" : 2005,
+    "metaphor" : "Wasps",
+    "citationsDOI" : "NA"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "10.1016\/j.jocs.2016.12.010",
+    "citationsCount" : 70,
+    "publishLocation" : "Journal of Computational Science",
+    "title" : "Rain-fall optimization algorithm: A population based algorithm for solving constrained optimization problems",
+    "isJournal" : true,
+    "subMetaphor" : "Rain",
+    "year" : 2017,
+    "metaphor" : "Water",
+    "citationsDOI" : "10.1016\/j.jocs.2016.12.010"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "10.1155\/2017\/3828420",
+    "citationsCount" : 15,
+    "publishLocation" : "Journal of Optimization",
+    "title" : "Hydrological Cycle Algorithm for Continuous Optimization Problems",
+    "isJournal" : true,
+    "subMetaphor" : "Hydrological Cycle",
+    "year" : 2017,
+    "metaphor" : "Water",
+    "citationsDOI" : "10.1155\/2017\/3828420"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "10.1504\/ijbic.2009.022775",
+    "citationsCount" : 222,
+    "publishLocation" : "International Journal of Bio-Inspired Computation",
+    "title" : "The intelligent water drops algorithm: a nature-inspired swarm-based optimization algorithm",
+    "isJournal" : true,
+    "subMetaphor" : "Intelligent Water Drops",
+    "year" : 2009,
+    "metaphor" : "Water",
+    "citationsDOI" : "10.1504\/ijbic.2009.022775"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "10.1109\/cec.2014.6900366",
+    "citationsCount" : 7,
+    "publishLocation" : "2014 IEEE Congress on Evolutionary Computation (CEC)",
+    "title" : "Optimal approximation of stable linear systems with a novel and efficient optimization algorithm",
+    "isJournal" : false,
+    "subMetaphor" : "Rain Drops",
+    "year" : 2014,
+    "metaphor" : "Water",
+    "citationsDOI" : "10.1109\/cec.2014.6900366"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "10.1016\/j.compstruc.2012.07.010",
+    "citationsCount" : 575,
+    "publishLocation" : "Computers & Structures",
+    "title" : "Water cycle algorithm - A novel metaheuristic optimization method for solving constrained engineering optimization problems",
+    "isJournal" : true,
+    "subMetaphor" : "Water Cycle",
+    "year" : 2012,
+    "metaphor" : "Water",
+    "citationsDOI" : "10.1016\/j.compstruc.2012.07.010"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "10.1016\/j.compstruc.2016.01.008",
+    "citationsCount" : 124,
+    "publishLocation" : "Computers & Structures",
+    "title" : "Water Evaporation Optimization: A novel physically inspired optimization algorithm",
+    "isJournal" : true,
+    "subMetaphor" : "Water Evaporation",
+    "year" : 2016,
+    "metaphor" : "Water",
+    "citationsDOI" : "10.1016\/j.compstruc.2016.01.008"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "10.1007\/s10951-010-0205-x",
+    "citationsCount" : 11,
+    "publishLocation" : "Journal of Scheduling",
+    "title" : "A water-flow algorithm for flexible flow shop scheduling with~intermediate buffers",
+    "isJournal" : true,
+    "subMetaphor" : "Water Flow",
+    "year" : 2010,
+    "metaphor" : "Water",
+    "citationsDOI" : "10.1007\/s10951-010-0205-x"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "10.1016\/j.cor.2014.10.008",
+    "citationsCount" : 259,
+    "publishLocation" : "Computers & Operations Research",
+    "title" : "Water wave optimization: A new nature-inspired metaheuristic",
+    "isJournal" : true,
+    "subMetaphor" : "Water Wave",
+    "year" : 2015,
+    "metaphor" : "Water",
+    "citationsDOI" : "10.1016\/j.cor.2014.10.008"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "10.1016\/j.advengsoft.2016.01.008",
+    "citationsCount" : 2599,
+    "publishLocation" : "Advances in Engineering Software",
+    "title" : "The Whale Optimization Algorithm",
+    "isJournal" : true,
+    "subMetaphor" : "Regular Whales",
+    "year" : 2016,
+    "metaphor" : "Whales",
+    "citationsDOI" : "10.1016\/j.advengsoft.2016.01.008"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "10.1080\/0305215x.2018.1463527",
+    "citationsCount" : 30,
+    "publishLocation" : "Engineering Optimization",
+    "title" : "Binary whale optimization algorithm: a new metaheuristic approach for profit-based unit commitment problems in competitive electricity markets",
+    "isJournal" : true,
+    "subMetaphor" : "Binary Whales",
+    "year" : 2018,
+    "metaphor" : "Whales",
+    "citationsDOI" : "10.1080\/0305215x.2018.1463527"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "10.1016\/j.jngse.2016.01.001",
+    "citationsCount" : 44,
+    "publishLocation" : "Journal of Natural Gas Science and Engineering",
+    "title" : "Sperm whale algorithm: An effective metaheuristic algorithm for production optimization problems",
+    "isJournal" : true,
+    "subMetaphor" : "Sperm Whales",
+    "year" : 2016,
+    "metaphor" : "Whales",
+    "citationsDOI" : "10.1016\/j.jngse.2016.01.001"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "10.1016\/j.procs.2017.12.141",
+    "citationsCount" : 31,
+    "publishLocation" : "Procedia Computer Science",
+    "title" : "Killer Whale Algorithm: An Algorithm Inspired by the Life of Killer Whale",
+    "isJournal" : true,
+    "subMetaphor" : "Killer Whales",
+    "year" : 2017,
+    "metaphor" : "Whales",
+    "citationsDOI" : "10.1016\/j.procs.2017.12.141"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "10.1007\/978-3-030-45688-7_77",
+    "citationsCount" : 1,
+    "publishLocation" : "Trends and Innovations in Information Systems and Technologies",
+    "title" : "A New Swarm Algorithm Based on Orcas Intelligence for Solving Maze Problems",
+    "isJournal" : false,
+    "subMetaphor" : "Orcas",
+    "year" : 2020,
+    "metaphor" : "Whales",
+    "citationsDOI" : "10.1007\/978-3-030-45688-7_77"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "10.1016\/j.engappai.2020.103666",
+    "citationsCount" : 16,
+    "publishLocation" : "Engineering Applications of Artificial Intelligence",
+    "title" : "A novel and effective optimization algorithm for global optimization and its engineering applications: Turbulent Flow of Water-based Optimization (TFWO)",
+    "isJournal" : true,
+    "subMetaphor" : "NA",
+    "year" : 2020,
+    "metaphor" : "Whirlpools",
+    "citationsDOI" : "10.1016\/j.engappai.2020.103666"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "10.1109\/aps.2010.5562213",
+    "citationsCount" : 60,
+    "publishLocation" : "2010 IEEE Antennas and Propagation Society International Symposium",
+    "title" : "Wind Driven Optimization (WDO): A novel nature-inspired optimization algorithm and its application to electromagnetics",
+    "isJournal" : false,
+    "subMetaphor" : "NA",
+    "year" : 2010,
+    "metaphor" : "Wind",
+    "citationsDOI" : "10.1109\/aps.2010.5562213"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "10.1109\/icdim.2012.6360147",
+    "citationsCount" : 87,
+    "publishLocation" : "Seventh International Conference on Digital Information Management (ICDIM 2012)",
+    "title" : "Wolf search algorithm with ephemeral memory",
+    "isJournal" : false,
+    "subMetaphor" : "Wolves",
+    "year" : 2012,
+    "metaphor" : "Wolves",
+    "citationsDOI" : "10.1109\/icdim.2012.6360147"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "10.1016\/j.advengsoft.2013.12.007",
+    "citationsCount" : 4174,
+    "publishLocation" : "Advances in Engineering Software",
+    "title" : "Grey Wolf Optimizer",
+    "isJournal" : true,
+    "subMetaphor" : "Grey Wolves",
+    "year" : 2014,
+    "metaphor" : "Wolves",
+    "citationsDOI" : "10.1016\/j.advengsoft.2013.12.007"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "NA",
+    "publishLocation" : "Proceedings of the 2014 International Conference on Industrial Engineering and Operations Management",
+    "title" : "Worm optimization: a novel optimization algorithm inspired by C. Elegans",
+    "isJournal" : false,
+    "subMetaphor" : "NA",
+    "year" : 2014,
+    "metaphor" : "Worms",
+    "citationsDOI" : "NA"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "10.1016\/j.engappai.2016.04.004",
+    "citationsCount" : 55,
+    "publishLocation" : "Engineering Applications of Artificial Intelligence",
+    "title" : "Yin-Yang-pair Optimization: A novel lightweight optimization algorithm",
+    "isJournal" : true,
+    "subMetaphor" : "NA",
+    "year" : 2016,
+    "metaphor" : "Yin-Yang Pairs",
+    "citationsDOI" : "10.1016\/j.engappai.2016.04.004"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "10.1016\/j.biosystems.2018.09.007",
+    "citationsCount" : 18,
+    "publishLocation" : "Biosystems",
+    "title" : "A novel bio-inspired optimization model based on Yellow Saddle Goatfish behavior",
+    "isJournal" : true,
+    "subMetaphor" : "NA",
+    "year" : 2018,
+    "metaphor" : "Yellow Saddle Goldfish",
+    "citationsDOI" : "10.1016\/j.biosystems.2018.09.007"
+  },
+  {
+    "authors" : [
+
+    ],
+    "DOI" : "NA",
+    "publishLocation" : "Pattern Recognition (ICPR), 2012 21st International Conference on",
+    "title" : "Zombie Survival Optimization: A swarm intelligence algorithm inspired by zombie foraging",
+    "isJournal" : false,
+    "subMetaphor" : "NA",
+    "year" : 2012,
+    "metaphor" : "Zombies",
+    "citationsDOI" : "NA"
+  }
+]
